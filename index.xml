@@ -80,7 +80,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- DevOps Tools  A bunch of Shortcodes are available with this theme : Ansible A bunch of Shortcodes are available with this theme :  </description>
+ DevOps Tools  
+ </description>
     </item>
     
     <item>
@@ -200,7 +201,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/_header/</guid>
-      <description>Technology Leadership in Test</description>
+      <description>TL Test </description>
     </item>
     
     <item>
