@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Create Page"
 description = ""
 date = "2017-04-24T18:36:24+02:00"
@@ -49,11 +49,11 @@ Hugo-theme-docdock uses the following parameters on top of the existing ones :
 	# Menu configuration
 	[menu.main]
 	# page identifier (when empty menu entry will not display for this page)
-	identifier="page-id" 
+	identifier="page-id"
 	# identifier of the parent's page (when empty, page will be attached to rootpage)
-	parent="parent-page-id" 
+	parent="parent-page-id"
 	# Order page menu entry
-	weight = 1 
+	weight = 1
 	+++
 
 
@@ -63,6 +63,6 @@ Hugo provides a flexible way to handle order for your pages.
 
 The simplest way is to use `weight` parameter in the front matter of your page.
 
-Be aware that weight are applied separately for each menu level. 
+Be aware that weight are applied separately for each menu level.
 
 [{{%icon circle-arrow-right%}}Read more on content organization]({{%relref "organisation.md"%}})

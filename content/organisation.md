@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Content Organisation"
 description = ""
 
@@ -18,7 +18,7 @@ Hugo has a simple yet powerful [menu system](https://gohugo.io/extras/menus/) th
 
 With docdock, **Each content page composes the menu**, they shape the structure of your website.
 
-To link pages to each other : 
+To link pages to each other :
 
 * In the frontmatter of each content page ;
 	* Set the `parent` identifier.
@@ -53,7 +53,7 @@ In this example "My child page" will be attached to "daddy" page, and displayed 
 
 in the page frontmatter, add a `pre` param to insert any HTML code before the menu label:
 
-example to display a github icon 
+example to display a github icon
 
 	+++
 	[menu.main]
@@ -123,11 +123,8 @@ unfoldedMenus = ["start"]
 ### Folder structure and file name
 
 Content organization is not your folder structure.
-Feel free to save your .md file the way your want, it may not necessary reflects your menu organisation. 
+Feel free to save your .md file the way your want, it may not necessary reflects your menu organisation.
 
 ### Homepage
 
-Find out how to [customize homepage]({{%relref "homepage.md"%}}) 
-
-
-
+Find out how to [customize homepage]({{%relref "homepage.md"%}})

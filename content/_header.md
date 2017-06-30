@@ -11,4 +11,5 @@ lastmodifierdisplayname = "Valere JEANTET"
 lastmodifieremail = "valere.jeantet@gmail.com"
 
 +++
-DocDock Documentation 
+![](/tlt_header.png)
+Technology Leadership in Test

@@ -1,6 +1,6 @@
 +++
-draft = true
-title = "Shortcodes"
+draft = false
+title = "Methodology"
 description = ""
 date = "2017-04-24T18:36:24+02:00"
 
@@ -11,9 +11,9 @@ lastmodifieremail = "valere.jeantet@gmail.com"
 
 [menu.main]
 parent = ""
-identifier = "shortcodes"
+identifier = "methods"
 weight = 30
-pre ="<i class='fa fa-edit'></i> "
+
 +++
 
 A bunch of Shortcodes are available with this theme :
