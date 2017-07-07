@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/dev/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/environments/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -106,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/dev/version3/</loc>
+    <loc>https://tbro28.github.io/tlt/test/version3/</loc>
   </url>
   
   <url>
@@ -164,11 +159,11 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/dev/version1/</loc>
+    <loc>https://tbro28.github.io/tlt/test/version1/</loc>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/dev/version2/</loc>
+    <loc>https://tbro28.github.io/tlt/test/version2/</loc>
   </url>
   
   <url>
@@ -177,6 +172,10 @@
   
   <url>
     <loc>https://tbro28.github.io/tlt/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/knowledge/blogs1/</loc>
   </url>
   
   <url>
@@ -204,6 +203,10 @@
   <url>
     <loc>https://tbro28.github.io/tlt/methods/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/knowledge/blogs/</loc>
   </url>
   
   <url>
@@ -251,6 +254,14 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/knowledge/books2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/knowledge/books1/</loc>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/themevariant/</loc>
   </url>
   
@@ -267,7 +278,11 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/dev/version/</loc>
+    <loc>https://tbro28.github.io/tlt/test/version/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/knowledge/books3/</loc>
   </url>
   
   <url>

@@ -95,18 +95,6 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://tbro28.github.io/tlt/dev/</link>
-      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/dev/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- Local Development  List the child pages of a page
- Version Control  List the child pages of a page
- </description>
-    </item>
-    
-    <item>
       <title>Environments</title>
       <link>https://tbro28.github.io/tlt/environments/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
@@ -126,6 +114,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <guid>https://tbro28.github.io/tlt/knowledge/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  Books  The Attachments shortcode displays a list of files attached to a page.
+ Papers  The Attachments shortcode displays a list of files attached to a page.
  Papers  The Attachments shortcode displays a list of files attached to a page.
  </description>
     </item>
@@ -192,6 +181,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <guid>https://tbro28.github.io/tlt/test/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  UI Automation  List the child pages of a page
+ Version Control  List the child pages of a page
  </description>
     </item>
     
@@ -230,10 +220,10 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
     
     <item>
       <title>Artifactory</title>
-      <link>https://tbro28.github.io/tlt/dev/version3/</link>
+      <link>https://tbro28.github.io/tlt/test/version3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/dev/version3/</guid>
+      <guid>https://tbro28.github.io/tlt/test/version3/</guid>
       <description>This is a demo child page</description>
     </item>
     
@@ -289,7 +279,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/credits/</guid>
-      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 130 commits   @matcornic 49 commits   @gwleclerc 17 commits   @lierdakil 16 commits   @Xipas 5 commits   @altinnadmin 4 commits   @Thiht 2 commits   @erikjasiak 1 commits   @giuliov 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
+      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 141 commits   @matcornic 49 commits   @gwleclerc 17 commits   @lierdakil 16 commits   @Xipas 5 commits   @altinnadmin 4 commits   @Thiht 2 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
     </item>
     
     <item>
@@ -315,19 +305,19 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     
     <item>
       <title>Git</title>
-      <link>https://tbro28.github.io/tlt/dev/version1/</link>
+      <link>https://tbro28.github.io/tlt/test/version1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/dev/version1/</guid>
+      <guid>https://tbro28.github.io/tlt/test/version1/</guid>
       <description>This is a demo child page</description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://tbro28.github.io/tlt/dev/version2/</link>
+      <link>https://tbro28.github.io/tlt/test/version2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/dev/version2/</guid>
+      <guid>https://tbro28.github.io/tlt/test/version2/</guid>
       <description>This is a demo child page</description>
     </item>
     
@@ -349,6 +339,18 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <guid>https://tbro28.github.io/tlt/installation/</guid>
       <description>&lt;p&gt;The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you to train by following this &lt;a href=&#34;https://gohugo.io/overview/quickstart/&#34;&gt;great documentation for beginners&lt;/a&gt;.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Joel on Software</title>
+      <link>https://tbro28.github.io/tlt/knowledge/blogs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/knowledge/blogs1/</guid>
+      <description>Joel on Software You could do A LOT worse than reading at least 50 of the 1000+ papers Joel Spolsky has written.
+Joel on Software Site
+If anything at least read these: * Things You Should Never Do, Part I * The Iceberg Secret, Revealed * Fire And Motion * The Law of Leaky Abstractions * The Development Abstraction Layer
+ &amp;ldquo;When you’re listening to her on your iPod, there’s a huge infrastructure that makes that possible, but the very best thing that infrastructure can do is disappear completely.</description>
     </item>
     
     <item>
@@ -379,6 +381,18 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/environments/local/</guid>
+      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
+ Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
+ If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
+  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://tbro28.github.io/tlt/knowledge/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/knowledge/blogs/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
  Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
  If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
@@ -429,6 +443,28 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     </item>
     
     <item>
+      <title>The 7 Habits of Highly Effective People</title>
+      <link>https://tbro28.github.io/tlt/knowledge/books2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/knowledge/books2/</guid>
+      <description>The 7 Habits of Highly Effective People Habit 1: Be Proactive Your life doesn&amp;rsquo;t just &amp;ldquo;happen.&amp;rdquo; Whether you know it or not, it is carefully designed by you. The choices, after all, are yours. You choose happiness. You choose sadness. You choose decisiveness. You choose ambivalence. You choose success. You choose failure. You choose courage. You choose fear. Just remember that every moment, every situation, provides a new choice. And in doing so, it gives you a perfect opportunity to do things differently to produce more positive results.</description>
+    </item>
+    
+    <item>
+      <title>The Now Habit</title>
+      <link>https://tbro28.github.io/tlt/knowledge/books1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/knowledge/books1/</guid>
+      <description>The Now Habit Key Takeaways and Insights
+Live your life from choice A leadership function of your higher, human brain and your new identity as a producer.
+Procrastinators do finish, but the work at the last minute creates unnecessary anxiety and diminishes quality.
+Procrastination is a mechanism for coping with the anxiety associated with starting or completing any task or decision.
+ Creating safety Reprogramming negative attitudes through positive self-talk Using the symptom to trigger the cure Guilt-free play Three-dimensional thinking and the reverse calendar Making worry work for you The Unschedule Setting realistic goals Working in the flow state Controlled setbacks  Our worst critic is ourselves • Feeling that you need to force yourself, that you need internal conflict because it is human nature to be lazy.</description>
+    </item>
+    
+    <item>
       <title>Theme variants</title>
       <link>https://tbro28.github.io/tlt/themevariant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -473,12 +509,22 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     
     <item>
       <title>Version Control</title>
-      <link>https://tbro28.github.io/tlt/dev/version/</link>
+      <link>https://tbro28.github.io/tlt/test/version/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/dev/version/</guid>
+      <guid>https://tbro28.github.io/tlt/test/version/</guid>
       <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
 Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+    </item>
+    
+    <item>
+      <title>You&#39;ve Only Got 90 Seconds</title>
+      <link>https://tbro28.github.io/tlt/knowledge/books3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/knowledge/books3/</guid>
+      <description>You&amp;rsquo;ve Only Got 90 Seconds A Sunny Disposition Likability has something to do with how you look but a lot more to do with how you make people feel. • Likeable people give loud and clear signals of their willingness to be sociable; they reveal that their public communication channels are open. Embedded in these signals is evidence of self-confidence, sincerity and trust.
+Instinctively, we assess, undress and best-guess each other.</description>
     </item>
     
     <item>
