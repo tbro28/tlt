@@ -113,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/testknowledge/</loc>
+    <loc>https://tbro28.github.io/tlt/test/testknowledge/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -144,6 +144,10 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/devops/jesserobbins/</loc>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/ci/</loc>
     <priority>0</priority>
   </url>
@@ -154,6 +158,10 @@
   
   <url>
     <loc>https://tbro28.github.io/tlt/configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/ci/ciframeworks/</loc>
   </url>
   
   <url>
@@ -189,10 +197,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/ci/ciframeworks/</loc>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/test/testframeworks/</loc>
   </url>
   
@@ -214,6 +218,10 @@
   
   <url>
     <loc>https://tbro28.github.io/tlt/test/jmeter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/jezhumble/</loc>
   </url>
   
   <url>
@@ -302,6 +310,7 @@
   
   <url>
     <loc>https://tbro28.github.io/tlt/test/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -331,6 +340,10 @@
   
   <url>
     <loc>https://tbro28.github.io/tlt/test/version/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/jezhumble2/</loc>
   </url>
   
   <url>

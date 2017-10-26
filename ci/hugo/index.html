@@ -101,12 +101,12 @@
     
     
     
-        <li data-nav-id="/tlt/testknowledge/" class="dd-item 
+        <li data-nav-id="/tlt/test/testknowledge/" class="dd-item 
          
         
         "
         >
-            <a href="/tlt/testknowledge/">
+            <a href="/tlt/test/testknowledge/">
                 <span>Test Knowledge</span>
                 
                 <i style="color:grey" class="fa fa-check read-icon"></i>
@@ -617,7 +617,7 @@
         "
         >
             <a href="/tlt/ci/ciframeworks/">
-                <span>Frameworks</span>
+                <span>Continuous Integration Frameworks</span>
                 
                     
                         <i class="fa fa-angle-down fa-lg category-icon"></i>
@@ -756,13 +756,79 @@
     
     
     
+        <li data-nav-id="/tlt/devops/jesserobbins/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/tlt/devops/jesserobbins/">
+                <span>Changing Culture &amp; Being a force for Awesome</span>
+                
+                <i style="color:grey" class="fa fa-check read-icon"></i>
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/tlt/devops/jezhumble/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/tlt/devops/jezhumble/">
+                <span>Jez Humble | Continuous Delivery</span>
+                
+                <i style="color:grey" class="fa fa-check read-icon"></i>
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
         <li data-nav-id="/tlt/devops/noops/" class="dd-item 
          
         
         "
         >
             <a href="/tlt/devops/noops/">
-                <span>NoOps</span>
+                <span>NoOps - DevOpsDays Portland, 2016: Kelsey Hightower</span>
+                
+                <i style="color:grey" class="fa fa-check read-icon"></i>
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/tlt/devops/jezhumble2/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/tlt/devops/jezhumble2/">
+                <span>Why Scaling Agile Doesn&#39;t Work</span>
                 
                 <i style="color:grey" class="fa fa-check read-icon"></i>
             </a>
@@ -814,7 +880,7 @@
         "
         >
             <a href="/tlt/devops/devopstools1/">
-                <span>Ansible</span>
+                <span>Ansible - Infrastructure Automation</span>
                 
                 <i style="color:grey" class="fa fa-check read-icon"></i>
             </a>
@@ -1343,7 +1409,7 @@
                   Test Leadership in Test
                 </a>
                 
-                   / <a href='/tlt/continint/'>Continuous Integration</a> / <a href='/tlt/ci/ciframeworks/'>Frameworks</a> / <a href='/tlt/ci/hugo/'>Hugo</a>
+                   / <a href='/tlt/continint/'>Continuous Integration</a> / <a href='/tlt/ci/ciframeworks/'>Continuous Integration Frameworks</a> / <a href='/tlt/ci/hugo/'>Hugo</a>
                 
                 
             </div>
@@ -1353,8 +1419,7 @@
 <ul>
 <li>
 <ul>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#demo">Demo</a></li>
+<li><a href="#hugo">Hugo</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -1372,60 +1437,7 @@
 
 
 
-<p>Use the children shortcode to list the child pages of a page and the further descendants (children&rsquo;s children). By default, the shortcode displays links to the child pages.</p>
-
-<h2 id="usage">Usage</h2>
-
-<table>
-<thead>
-<tr>
-<th align="left">Parameter</th>
-<th align="left">Default</th>
-<th align="left">Description</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td align="left">style</td>
-<td align="left">&ldquo;li&rdquo;</td>
-<td align="left">Choose the style used to display descendants. It could be any HTML tag name</td>
-</tr>
-
-<tr>
-<td align="left">nohidden</td>
-<td align="left">&ldquo;false&rdquo;</td>
-<td align="left">When true, child pages hidden from the menu will not display</td>
-</tr>
-
-<tr>
-<td align="left">description</td>
-<td align="left">&ldquo;false&rdquo;</td>
-<td align="left">Allows you to include a short text under each page in the list.<br/>when no desription exists for the page, children shortcode takes the first 70 words of your content. <a href="https://gohugo.io/content/summaries/">read more info about summaries on gohugo.io</a></td>
-</tr>
-
-<tr>
-<td align="left">depth</td>
-<td align="left">1</td>
-<td align="left">Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. <div class="alert 
-	alert-success"
- 
-role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
-</td>
-</tr>
-
-<tr>
-<td align="left">sort</td>
-<td align="left">none</td>
-<td align="left">Sort Children By<br><li><strong>Weight</strong> - to sort on menu order</li><li><strong>Name</strong> - to sort alphabetically on menu label</li><li><strong>Identifier</strong> - to sort alphabetically on identifier set in frontmatter</li><li><strong>URL</strong> - URL</li></td>
-</tr>
-</tbody>
-</table>
-
-<h2 id="demo">Demo</h2>
-
-<pre><code>{{% children  %}}
-</code></pre>
+<h2 id="hugo">Hugo</h2>
 
 
 
@@ -1433,49 +1445,14 @@ role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
 
 
 
-
-<ul class="children children-li">
-	
-	
-	
-</ul>
-
-
-<pre><code>{{% children description=&quot;true&quot;   %}}
-</code></pre>
-
-<ul class="children children-li">
-    
-    
-    
-</ul>
-
-<pre><code>{{% children nohidden=&quot;true&quot; %}}
-</code></pre>
-
-<ul class="children children-li">
-    
-    
-    
-</ul>
-
-<pre><code>{{% children style=&quot;h3&quot; depth=&quot;3&quot; description=&quot;true&quot; %}}
-</code></pre>
 
 <ul class="children children-h3">
-    
-    
-    
+	
+	
+	
 </ul>
 
-<pre><code>{{% children style=&quot;div&quot; depth=&quot;999&quot; %}}
-</code></pre>
 
-<ul class="children children-div">
-    
-    
-    
-</ul>
 
 
 
@@ -1798,6 +1775,39 @@ role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
             
         
                 
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
             
         
                 
@@ -2032,7 +2042,7 @@ role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
 
 
         
-            <a class="nav nav-prev" href="/tlt/ci/ciframeworks/" title="Frameworks"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/tlt/ci/ciframeworks/" title="Continuous Integration Frameworks"> <i class="fa fa-chevron-left"></i></a>
         
         
             <a class="nav nav-next" href="/tlt/contindel/" title="Continuous Delivery" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>

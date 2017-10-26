@@ -43,13 +43,12 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
     </item>
     
     <item>
-      <title>Ansible</title>
+      <title>Ansible - Infrastructure Automation</title>
       <link>https://tbro28.github.io/tlt/devops/devopstools1/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools1/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- </description>
+      <description> Ansible </description>
     </item>
     
     <item>
@@ -69,7 +68,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/continint/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Frameworks  List the child pages of a page
+ Continuous Integration Frameworks  Ideas, tools, and thoughts on CI frameworks.
  </description>
     </item>
     
@@ -80,7 +79,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
       <description>  DevOps Knowledge  
- DevOps Tools  A bunch of Shortcodes are available with this theme : Ansible A bunch of Shortcodes are available with this theme :  </description>
+ DevOps Tools  
+ </description>
     </item>
     
     <item>
@@ -89,8 +89,10 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopsknowledge/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- NoOps  The Attachments shortcode displays a list of files attached to a page.
+      <description>  Changing Culture &amp;amp; Being a force for Awesome  Velocity 2012: Jesse Robbins.
+ Jez Humble | Continuous Delivery  Jez Humble&amp;#39;s thoughts on CD.
+ NoOps - DevOpsDays Portland, 2016: Kelsey Hightower  The Attachments shortcode displays a list of files attached to a page.
+ Why Scaling Agile Doesn&amp;#39;t Work  Jez Humble&amp;#39;s thoughts on the problems with scaled frameworks.
  </description>
     </item>
     
@@ -100,8 +102,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- Ansible  A bunch of Shortcodes are available with this theme :  </description>
+      <description>  Ansible - Infrastructure Automation   Ansible  </description>
     </item>
     
     <item>
@@ -123,8 +124,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/leadership/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Leadership Knowledge  
- Leadership Principles  Leadership https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary. If my position, title, role, or formal authority was removed would people still gladly follow me?</description>
+ Leadership Knowledge  A bunch of Shortcodes are available with this theme :  Leadership Principles  Leadership https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary.</description>
     </item>
     
     <item>
@@ -228,7 +228,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       
       <guid>https://tbro28.github.io/tlt/self/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Leveling Up  Taking your engineering &amp;amp; operations role to the next level.
+ Leveling Up  Taking your engineering &amp;amp; operations role to the next level. Kate Matsudaira.
  The 7 Habits of Highly Effective People  The Attachments shortcode displays a list of files attached to a page.
  The Now Habit  The Attachments shortcode displays a list of files attached to a page.
  You&amp;#39;ve Only Got 90 Seconds  The Attachments shortcode displays a list of files attached to a page.</description>
@@ -240,24 +240,22 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/</guid>
-      <description>Where?
- Frameworks  List the child pages of a page
+      <description>Where is this page?  Frameworks  List the child pages of a page
   Cucumber, Selenium, and Eclipse  BDD Framework.
  Eclipse with Selenium  Popular UI automation tool and Java IDE.
   Performance  Performance Tools and Approaches.
   JMeter  Load testing tool.
  LoadRunner  Comprehensive load testing solution.
-  Test Knowledge  A bunch of Shortcodes are available with this theme :  UI Automation  Various UI automation tools.</description>
+  Test Knowledge    UI Automation  Various UI automation tools.</description>
     </item>
     
     <item>
       <title>Test Knowledge</title>
-      <link>https://tbro28.github.io/tlt/testknowledge/</link>
+      <link>https://tbro28.github.io/tlt/test/testknowledge/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/testknowledge/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- </description>
+      <guid>https://tbro28.github.io/tlt/test/testknowledge/</guid>
+      <description>  </description>
     </item>
     
     <item>
@@ -275,10 +273,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/environments/cloudaws1/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+      <description> Amazon Web Services  </description>
     </item>
     
     <item>
@@ -315,15 +310,25 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
     </item>
     
     <item>
+      <title>Changing Culture &amp; Being a force for Awesome</title>
+      <link>https://tbro28.github.io/tlt/devops/jesserobbins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/jesserobbins/</guid>
+      <description> Velocity 2012: Jesse Robbins, &amp;ldquo;Changing Culture &amp;amp; Being a force for Awesome&amp;rdquo; Say that it is just a short term experiment.
+Get your boss onboard, so that they can be that first champion for you.
+Changing Culture &amp;amp; Being a force for Awesome.
+  </description>
+    </item>
+    
+    <item>
       <title>Cloud Environments</title>
       <link>https://tbro28.github.io/tlt/environments/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/environments/cloud/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+      <description>  AWS: Amazon Web Services  Utilizing AWS services.
+ </description>
     </item>
     
     <item>
@@ -334,6 +339,16 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <guid>https://tbro28.github.io/tlt/configuration/</guid>
       <description>&lt;p&gt;When building the website, you can set a theme by using &lt;code&gt;--theme&lt;/code&gt; option. We suggest you to edit your configuration file and set the theme by default. Example with &lt;code&gt;config.toml&lt;/code&gt; format.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration Frameworks</title>
+      <link>https://tbro28.github.io/tlt/ci/ciframeworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/ci/ciframeworks/</guid>
+      <description> Continuous Integration Frameworks  Hugo  List the child pages of a page
+ </description>
     </item>
     
     <item>
@@ -376,21 +391,13 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
     
     <item>
       <title>Frameworks</title>
-      <link>https://tbro28.github.io/tlt/ci/ciframeworks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/ci/ciframeworks/</guid>
-      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
-Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
-    </item>
-    
-    <item>
-      <title>Frameworks</title>
       <link>https://tbro28.github.io/tlt/test/testframeworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/testframeworks/</guid>
-      <description> Frameworks  Cucumber, Selenium, and Eclipse   Eclipse with Selenium   </description>
+      <description> Frameworks  Cucumber, Selenium, and Eclipse  BDD Framework.
+ Eclipse with Selenium  Popular UI automation tool and Java IDE.
+ </description>
     </item>
     
     <item>
@@ -417,8 +424,7 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/ci/hugo/</guid>
-      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
-Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+      <description> Hugo  </description>
     </item>
     
     <item>
@@ -442,6 +448,18 @@ Apache JMeter.</description>
     </item>
     
     <item>
+      <title>Jez Humble | Continuous Delivery</title>
+      <link>https://tbro28.github.io/tlt/devops/jezhumble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/jezhumble/</guid>
+      <description> Continuous Delivery  &amp;ldquo;You can&amp;rsquo;t just ask your customers what they want and then build it for them. By the time you get it built, they&amp;rsquo;ll want something new.&amp;rdquo; - Jobs
+&amp;ldquo;If I would have asked my customers what they wanted they would have told me faster horses.&amp;rdquo; - Ford
+ Continuous Delivery.
+  </description>
+    </item>
+    
+    <item>
       <title>Joel on Software</title>
       <link>https://tbro28.github.io/tlt/organizations/joelspolsky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -449,7 +467,12 @@ Apache JMeter.</description>
       <guid>https://tbro28.github.io/tlt/organizations/joelspolsky/</guid>
       <description>Joel on Software You could do A LOT worse than reading at least 50 of the 1000+ papers Joel Spolsky has written.
 Joel on Software Site
-If anything at least read these: * Things You Should Never Do, Part I * The Iceberg Secret, Revealed * Fire And Motion * The Law of Leaky Abstractions * The Development Abstraction Layer
+If anything at least read these:
+* Things You Should Never Do, Part I
+* The Iceberg Secret, Revealed
+* Fire And Motion
+* The Law of Leaky Abstractions
+* The Development Abstraction Layer
  &amp;ldquo;When you’re listening to her on your iPod, there’s a huge infrastructure that makes that possible, but the very best thing that infrastructure can do is disappear completely.</description>
     </item>
     
@@ -471,8 +494,9 @@ If anything at least read these: * Things You Should Never Do, Part I * The Iceb
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/self/levelingup/</guid>
-      <description>Taking your engineering &amp;amp; operations role to the next level One of the funnier tech presentations that I have ever run across with plenty of good content.
-Apache JMeter.</description>
+      <description> Taking your engineering &amp;amp; operations role to the next level One of the funnier tech presentations that I have ever run across with plenty of good content.
+Leveling Up - Taking your engineering &amp;amp; operations role to the next level.
+  </description>
     </item>
     
     <item>
@@ -500,19 +524,21 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/environments/local/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+      <description>  Vagrant and VirtualBox  Using both tools to deploy and test locally.
+ </description>
     </item>
     
     <item>
-      <title>NoOps</title>
+      <title>NoOps - DevOpsDays Portland, 2016: Kelsey Hightower</title>
       <link>https://tbro28.github.io/tlt/devops/noops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/noops/</guid>
-      <description></description>
+      <description> How should DevOps work? Developers have no interest in learning all of the configuration management tools.
+Your automation is so good that no one knows that operations is involved.
+Real example utilizing Kubernetes and hiding as much configuration details as possible.
+DevOpsDays Portland, 2016: Kelsey Hightower - NoOps.
+  </description>
     </item>
     
     <item>
@@ -605,10 +631,7 @@ Variant &amp;ldquo;green&amp;rdquo; themeVariant = &amp;quot;green&amp;quot;</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/environments/vagrant/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+      <description> Vagrant and VirtualBox  </description>
     </item>
     
     <item>
@@ -617,8 +640,28 @@ Variant &amp;ldquo;green&amp;rdquo; themeVariant = &amp;quot;green&amp;quot;</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/version/</guid>
-      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
-Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+      <description> Versioning  Artifactory  This is a demo child page
+ Git  This is a demo child page
+ Github  This is a demo child page
+ </description>
+    </item>
+    
+    <item>
+      <title>Why Scaling Agile Doesn&#39;t Work</title>
+      <link>https://tbro28.github.io/tlt/devops/jezhumble2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/jezhumble2/</guid>
+      <description> Water-Scrum-Fall what should we do
+create feedback loops to validate assumptions
+don’t optimize for the case where we are right
+focus on value, not cost
+enable an experimental approach to product dev
+make it economic to work in small batches
+UX isn&amp;rsquo;t about making it pretty! It&amp;rsquo;s about helping us thinking about delivering things that satisfy customers.
+Slides.
+Continuous Delivery.
+  </description>
     </item>
     
     <item>
@@ -627,7 +670,9 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/self/90seconds/</guid>
-      <description>You&amp;rsquo;ve Only Got 90 Seconds A Sunny Disposition Likability has something to do with how you look but a lot more to do with how you make people feel. • Likeable people give loud and clear signals of their willingness to be sociable; they reveal that their public communication channels are open. Embedded in these signals is evidence of self-confidence, sincerity and trust.
+      <description>You&amp;rsquo;ve Only Got 90 Seconds A Sunny Disposition
+Likability has something to do with how you look but a lot more to do with how you make people feel.
+• Likeable people give loud and clear signals of their willingness to be sociable; they reveal that their public communication channels are open. Embedded in these signals is evidence of self-confidence, sincerity and trust.
 Instinctively, we assess, undress and best-guess each other.</description>
     </item>
     
