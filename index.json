@@ -46,14 +46,21 @@
 	"title": "DevOps",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n DevOps Tools  \n "
+	"content": "A bunch of Shortcodes are available with this theme :\n DevOps Knowledge  A bunch of Shortcodes are available with this theme : NoOps The Attachments shortcode displays a list of files attached to a page.  DevOps Tools  A bunch of Shortcodes are available with this theme : Ansible  "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopsknowledge/",
+	"title": "DevOps Knowledge",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n NoOps  The Attachments shortcode displays a list of files attached to a page.\n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/",
 	"title": "DevOps Tools",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Ansible  A bunch of Shortcodes are available with this theme :  "
+	"content": "A bunch of Shortcodes are available with this theme :\n Ansible  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/environments/",
@@ -70,18 +77,32 @@
 	"content": " \nWelcome to TL Test! A single location to organize ideas, tools, and frameworks related to test and infrastructure automation. Additionally covered are the methodologies and leadership capabilities needed to quickly deliver software that consistently meets or even exceeds customer expectations. Professional Site\n Grow - Test - Lead - Succeed.  "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/",
-	"title": "Knowledge",
-	"tags": [],
-	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Books  The Attachments shortcode displays a list of files attached to a page.\n Papers  The Attachments shortcode displays a list of files attached to a page.\n Papers  The Attachments shortcode displays a list of files attached to a page.\n "
-},
-{
 	"uri": "https://tbro28.github.io/tlt/leadership/",
 	"title": "Leadership",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Test Team Leadership  The Attachments shortcode displays a list of files attached to a page.\n "
+	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  \n Leadership Principles  \n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/leadership/leadershipknowledge/",
+	"title": "Leadership Knowledge",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/test/leadershipknowledge/",
+	"title": "Leadership Knowledge",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/leadership/becc/",
+	"title": "Leadership Principles",
+	"tags": [],
+	"description": "",
+	"content": " Leadership https://www.youtube.com/watch?v=8ubRzzirRKs\u0026amp;index=2\u0026amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf\nBECC\n• Believe\n• Encouraged\n• Challenged\n• Corrected\nThe last C is probably the most important.\nLeaders develop followers and other leaders. It’s not about having subordinates.\nCreating a tribe versus a positional structuring.\nThe business of following is voluntary.\nIf my position, title, role, or formal authority was removed would people still gladly follow me?\nPeople largely don’t want to be managed; they want to follow a leader.\n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/logo/",
@@ -89,6 +110,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Create a _header.md page in content folder. Its content is what you get in the logo placeholder (top left of the screen).\nLogo placeholder consideration Do not set [menu.main] in the frontmatter of your _header.md file  Tip : you can add a image, a combobox with links to other documentation\u0026hellip;. Tip 2 : look at extra static menu if you want to add links to other website in this sidebar "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/management/",
+	"title": "Management",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/methods/",
@@ -105,6 +133,13 @@
 	"content": " In the morning Getting up  Turn off alarm Get out of bed  Breakfast  Eat eggs Drink coffee  In the evening Dinner  Eat spaghetti Drink wine  Going to sleep  Get in bed Count sheep  "
 },
 {
+	"uri": "https://tbro28.github.io/tlt/organizations/",
+	"title": "Organizations",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n Joel on Software  The Attachments shortcode displays a list of files attached to a page.\n "
+},
+{
 	"uri": "https://tbro28.github.io/tlt/page-slide/",
 	"title": "Present a Slide",
 	"tags": [],
@@ -112,11 +147,25 @@
 	"content": " A basic md content page can be rendered as a reveal.js presentation full screen.\nYou can, also, embed presentation in a page as a small box, using the revealjs shortcode in your md file. Formating Use your common Markdown syntax you use in Hugo, don\u0026rsquo;t forget, you can put html tags too.\nSpecial syntax (in html comment) is available for adding attributes to Markdown elements. This is useful for fragments, amongst other things. Please read the  doc from hakimel\nOptions In the frontmatter of your page file, set type and revealOptions params\nYour content will be served as a fullscreen revealjs presentation and revealOptions will be used to ajust its behaviour.\n+++ title = \u0026quot;Test slide\u0026quot; type=\u0026quot;slide\u0026quot; theme = \u0026quot;league\u0026quot; [revealOptions] transition= 'concave' controls= true progress= true history= true center= true +++  read more about reveal options here\nSlide Delimiters When creating the content for your slideshow presentation within content markdown file you need to be able to distinguish between one slide and the next. This is achieved very simply using a convention within Markdown that indicates the start of each new slide.\nAs both horizontal and vertical slides are supported by reveal.js each has it\u0026rsquo;s own unique delimiter.\nTo denote the start of a horizontal slide simply add the following delimiter in your Markdown:\n---  To denote the start of a vertical slide simply add the following delimiter in your Markdown:\n___  By using a combination of horizontal and vertical slides you can customize the navigation within your slideshow presentation. Typically vertical slides are used to present information below a top-level horizontal slide.\nFor example, a very simple slideshow presentation can be created as follows\n+++ draft = false title = \u0026quot;test\u0026quot; date = \u0026quot;2017-04-24T18:36:24+02:00\u0026quot; type=\u0026quot;slide\u0026quot; theme = \u0026quot;league\u0026quot; [revealOptions] transition= 'concave' controls= true progress= true history= true center= true +++ # In the morning ___ ## Getting up - Turn off alarm - Get out of bed ___ ## Breakfast - Eat eggs - Drink coffee --- # In the evening ___ ## Dinner - Eat spaghetti - Drink wine ___ ## Going to sleep - Get in bed - Count sheep   click here to view this page rendered\n"
 },
 {
+	"uri": "https://tbro28.github.io/tlt/self/",
+	"title": "Self",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n Leveling Up  The Attachments shortcode displays a list of files attached to a page.\n The 7 Habits of Highly Effective People  The Attachments shortcode displays a list of files attached to a page.\n The Now Habit  The Attachments shortcode displays a list of files attached to a page.\n You\u0026#39;ve Only Got 90 Seconds  The Attachments shortcode displays a list of files attached to a page.\n "
+},
+{
 	"uri": "https://tbro28.github.io/tlt/test/",
 	"title": "Test",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n UI Automation  List the child pages of a page\n Version Control  List the child pages of a page\n "
+	"content": "A bunch of Shortcodes are available with this theme :\n Test Knowledge  \n Frameworks  List the child pages of a page\n Performance  List the child pages of a page\n UI Automation  List the child pages of a page\n Version Control  List the child pages of a page\n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/testknowledge/",
+	"title": "Test Knowledge",
+	"tags": [],
+	"description": "",
+	"content": "A bunch of Shortcodes are available with this theme :\n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/_header/",
@@ -154,13 +203,6 @@
 	"content": " The Attachments shortcode displays a list of files attached to a page. Example :   Attachments \n Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages\n If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.\n  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested \u0026lsquo;files\u0026rsquo; folder.\n  content  _index.md page  index.md files  attachment.pdf       That\u0026rsquo;s all !\nTip : Look at this documentation source code on github parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       Demo List of attachments ending in pdf or mp4 {{%attachments title=\u0026quot;Related files\u0026quot; pattern=\u0026quot;.*(pdf|mp4)\u0026quot;/%}}  renders as\n  Related files  "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/books/",
-	"title": "Books",
-	"tags": [],
-	"description": "The Attachments shortcode displays a list of files attached to a page.",
-	"content": " The Attachments shortcode displays a list of files attached to a page. Example :   Attachments \n Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages\n If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.\n  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested \u0026lsquo;files\u0026rsquo; folder.\n  content  _index.md page  index.md files  attachment.pdf       That\u0026rsquo;s all !\nTip : Look at this documentation source code on github parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       Demo List of attachments ending in pdf or mp4 {{%attachments title=\u0026quot;Related files\u0026quot; pattern=\u0026quot;.*(pdf|mp4)\u0026quot;/%}}  renders as\n  Related files  "
-},
-{
 	"uri": "https://tbro28.github.io/tlt/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -193,7 +235,14 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "contributors and packages used by hugo-theme-docdock",
-	"content": " github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 141 commits   @matcornic 49 commits   @gwleclerc 17 commits   @lierdakil 16 commits   @Xipas 5 commits   @altinnadmin 4 commits   @Thiht 2 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support reveal-js - The HTML Presentation Framework  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo    "
+	"content": " github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 219 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @FMuro 2 commits   @jose-oc 2 commits   @Thiht 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @EnigmaCurry 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support reveal-js - The HTML Presentation Framework  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo    "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/test/testframeworks1/",
+	"title": "Cucumber, Selenium, and Eclipse",
+	"tags": [],
+	"description": "This is a demo child page",
+	"content": "This is a demo child page\n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/customizestyle/",
@@ -217,6 +266,13 @@
 	"content": ""
 },
 {
+	"uri": "https://tbro28.github.io/tlt/test/testframeworks2/",
+	"title": "Eclipse with Selenium",
+	"tags": [],
+	"description": "This is a demo child page",
+	"content": "This is a demo child page\n"
+},
+{
 	"uri": "https://tbro28.github.io/tlt/environments/",
 	"title": "Environments",
 	"tags": [],
@@ -224,11 +280,18 @@
 	"content": ""
 },
 {
-	"uri": "https://tbro28.github.io/tlt/ci/frameworks/",
+	"uri": "https://tbro28.github.io/tlt/ci/ciframeworks/",
 	"title": "Frameworks",
 	"tags": [],
 	"description": "List the child pages of a page",
 	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   Hugo   {{% children description=\u0026quot;true\u0026quot; %}}   Hugo  List the child pages of a page\n {{% children nohidden=\u0026quot;true\u0026quot; %}}   Hugo   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   Hugo  List the child pages of a page\n {{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   Hugo   "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/test/testframeworks/",
+	"title": "Frameworks",
+	"tags": [],
+	"description": "List the child pages of a page",
+	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   Cucumber, Selenium, and Eclipse   Eclipse with Selenium   {{% children description=\u0026quot;true\u0026quot; %}}   Cucumber, Selenium, and Eclipse  This is a demo child page\n Eclipse with Selenium  This is a demo child page\n {{% children nohidden=\u0026quot;true\u0026quot; %}}   Cucumber, Selenium, and Eclipse   Eclipse with Selenium   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   Cucumber, Selenium, and Eclipse  This is a demo child page\n Eclipse with Selenium  This is a demo child page\n {{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   Cucumber, Selenium, and Eclipse   Eclipse with Selenium   "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/test/version1/",
@@ -259,7 +322,14 @@
 	"content": "The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you to train by following this great documentation for beginners. Create Your Documentation Hugo provides a new command to create a new website.\n$ hugo new site \u0026lt;new_website\u0026gt;  Install The Theme Install the Hugo-theme-docdock theme by following this\nSwitch into the themes directory and download the theme b\n$ cd themes $ git clone https://github.com/vjeantet/hugo-theme-docdock.git docdock  Alternatively, you can  download the theme as .zip file and extract it in the themes directory\nBasic Configuration Follow instructions here\n"
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/blogs1/",
+	"uri": "https://tbro28.github.io/tlt/test/jmeter/",
+	"title": "JMeter",
+	"tags": [],
+	"description": "This is a demo child page",
+	"content": "This is a demo child page\n"
+},
+{
+	"uri": "https://tbro28.github.io/tlt/organizations/joelspolsky/",
 	"title": "Joel on Software",
 	"tags": [],
 	"description": "The Attachments shortcode displays a list of files attached to a page.",
@@ -273,18 +343,32 @@
 	"content": " The Attachments shortcode displays a list of files attached to a page. Example :   Attachments \n Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages\n If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.\n  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested \u0026lsquo;files\u0026rsquo; folder.\n  content  _index.md page  index.md files  attachment.pdf       That\u0026rsquo;s all !\nTip : Look at this documentation source code on github parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       Demo List of attachments ending in pdf or mp4 {{%attachments title=\u0026quot;Related files\u0026quot; pattern=\u0026quot;.*(pdf|mp4)\u0026quot;/%}}  renders as\n  Related files  "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/",
-	"title": "Knowledges",
+	"uri": "https://tbro28.github.io/tlt/leadership/",
+	"title": "Leaderships",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://tbro28.github.io/tlt/leader/",
-	"title": "Leaders",
+	"uri": "https://tbro28.github.io/tlt/self/levelingup/",
+	"title": "Leveling Up",
 	"tags": [],
-	"description": "",
-	"content": ""
+	"description": "The Attachments shortcode displays a list of files attached to a page.",
+	"content": " Taking your engineering \u0026amp; operations role to the next level https://www.youtube.com/watch?v=lgxEmiMJVq4\n"
+},
+{
+	"uri": "https://tbro28.github.io/tlt/test/levelingup/",
+	"title": "Leveling Up",
+	"tags": [],
+	"description": "The Attachments shortcode displays a list of files attached to a page.",
+	"content": " Taking your engineering \u0026amp; operations role to the next level https://www.youtube.com/watch?v=lgxEmiMJVq4\n"
+},
+{
+	"uri": "https://tbro28.github.io/tlt/test/loadrunner/",
+	"title": "LoadRunner",
+	"tags": [],
+	"description": "This is a demo child page",
+	"content": "This is a demo child page\n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/dev/localdev/",
@@ -308,18 +392,25 @@
 	"content": ""
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/blogs/",
-	"title": "Papers",
+	"uri": "https://tbro28.github.io/tlt/devops/noops/",
+	"title": "NoOps",
 	"tags": [],
 	"description": "The Attachments shortcode displays a list of files attached to a page.",
-	"content": " The Attachments shortcode displays a list of files attached to a page. Example :   Attachments \n Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages\n If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.\n  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested \u0026lsquo;files\u0026rsquo; folder.\n  content  _index.md page  index.md files  attachment.pdf       That\u0026rsquo;s all !\nTip : Look at this documentation source code on github parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       Demo List of attachments ending in pdf or mp4 {{%attachments title=\u0026quot;Related files\u0026quot; pattern=\u0026quot;.*(pdf|mp4)\u0026quot;/%}}  renders as\n  Related files  "
+	"content": ""
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/papers/",
-	"title": "Papers",
+	"uri": "https://tbro28.github.io/tlt/organizations/",
+	"title": "Organizations",
 	"tags": [],
-	"description": "The Attachments shortcode displays a list of files attached to a page.",
-	"content": " The Attachments shortcode displays a list of files attached to a page. Example :   Attachments \n Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages\n If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.\n  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested \u0026lsquo;files\u0026rsquo; folder.\n  content  _index.md page  index.md files  attachment.pdf       That\u0026rsquo;s all !\nTip : Look at this documentation source code on github parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       Demo List of attachments ending in pdf or mp4 {{%attachments title=\u0026quot;Related files\u0026quot; pattern=\u0026quot;.*(pdf|mp4)\u0026quot;/%}}  renders as\n  Related files  "
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://tbro28.github.io/tlt/test/performance/",
+	"title": "Performance",
+	"tags": [],
+	"description": "List the child pages of a page",
+	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   JMeter   LoadRunner   {{% children description=\u0026quot;true\u0026quot; %}}   JMeter  This is a demo child page\n LoadRunner  This is a demo child page\n {{% children nohidden=\u0026quot;true\u0026quot; %}}   JMeter   LoadRunner   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   JMeter  This is a demo child page\n LoadRunner  This is a demo child page\n {{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   JMeter   LoadRunner   "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/test/uiauto2/",
@@ -327,6 +418,13 @@
 	"tags": [],
 	"description": "This is a demo child page",
 	"content": "This is a demo child page\n"
+},
+{
+	"uri": "https://tbro28.github.io/tlt/self/",
+	"title": "Selves",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "https://tbro28.github.io/tlt/shortcode/",
@@ -364,13 +462,6 @@
 	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   {{% children description=\u0026quot;true\u0026quot; %}}   {{% children nohidden=\u0026quot;true\u0026quot; %}}   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   {{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/leader/test/",
-	"title": "Test Team Leadership",
-	"tags": [],
-	"description": "The Attachments shortcode displays a list of files attached to a page.",
-	"content": " The Attachments shortcode displays a list of files attached to a page. Example :   Attachments \n Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages\n If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.\n  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested \u0026lsquo;files\u0026rsquo; folder.\n  content  _index.md page  index.md files  attachment.pdf       That\u0026rsquo;s all !\nTip : Look at this documentation source code on github parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       Demo List of attachments ending in pdf or mp4 {{%attachments title=\u0026quot;Related files\u0026quot; pattern=\u0026quot;.*(pdf|mp4)\u0026quot;/%}}  renders as\n  Related files  "
-},
-{
 	"uri": "https://tbro28.github.io/tlt/test/",
 	"title": "Tests",
 	"tags": [],
@@ -378,14 +469,14 @@
 	"content": ""
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/books2/",
+	"uri": "https://tbro28.github.io/tlt/self/7habits/",
 	"title": "The 7 Habits of Highly Effective People",
 	"tags": [],
 	"description": "The Attachments shortcode displays a list of files attached to a page.",
 	"content": " The 7 Habits of Highly Effective People Habit 1: Be Proactive Your life doesn\u0026rsquo;t just \u0026ldquo;happen.\u0026rdquo; Whether you know it or not, it is carefully designed by you. The choices, after all, are yours. You choose happiness. You choose sadness. You choose decisiveness. You choose ambivalence. You choose success. You choose failure. You choose courage. You choose fear. Just remember that every moment, every situation, provides a new choice. And in doing so, it gives you a perfect opportunity to do things differently to produce more positive results.\nHabit 1: Be Proactive is about taking responsibility for your life. You can\u0026rsquo;t keep blaming everything on your parents or grandparents. Proactive people recognize that they are \u0026ldquo;response-able.\u0026rdquo; They don\u0026rsquo;t blame genetics, circumstances, conditions, or conditioning for their behavior. They know they choose their behavior. Reactive people, on the other hand, are often affected by their physical environment. They find external sources to blame for their behavior. If the weather is good, they feel good. If it isn\u0026rsquo;t, it affects their attitude and performance, and they blame the weather. All of these external forces act as stimuli that we respond to. Between the stimulus and the response is your greatest power\u0026ndash;you have the freedom to choose your response. One of the most important things you choose is what you say. Your language is a good indicator of how you see yourself. A proactive person uses proactive language\u0026ndash;I can, I will, I prefer, etc. A reactive person uses reactive language\u0026ndash;I can\u0026rsquo;t, I have to, if only. Reactive people believe they are not responsible for what they say and do\u0026ndash;they have no choice.\nInstead of reacting to or worrying about conditions over which they have little or no control, proactive people focus their time and energy on things they can control. The problems, challenges, and opportunities we face fall into two areas\u0026ndash;Circle of Concern and Circle of Influence.\nProactive people focus their efforts on their Circle of Influence. They work on the things they can do something about: health, children, problems at work. Reactive people focus their efforts in the Circle of Concern\u0026ndash;things over which they have little or no control: the national debt, terrorism, the weather. Gaining an awareness of the areas in which we expend our energies in is a giant step in becoming proactive. Habit 2: Begin with the End in Mind So, what do you want to be when you grow up? That question may appear a little trite, but think about it for a moment. Are you\u0026ndash;right now\u0026ndash;who you want to be, what you dreamed you\u0026rsquo;d be, doing what you always wanted to do? Be honest. Sometimes people find themselves achieving victories that are empty\u0026ndash;successes that have come at the expense of things that were far more valuable to them. If your ladder is not leaning against the right wall, every step you take gets you to the wrong place faster.\nHabit 2 is based on imagination\u0026ndash;the ability to envision in your mind what you cannot at present see with your eyes. It is based on the principle that all things are created twice. There is a mental (first) creation, and a physical (second) creation. The physical creation follows the mental, just as a building follows a blueprint. If you don\u0026rsquo;t make a conscious effort to visualize who you are and what you want in life, then you empower other people and circumstances to shape you and your life by default. It\u0026rsquo;s about connecting again with your own uniqueness and then defining the personal, moral, and ethical guidelines within which you can most happily express and fulfill yourself. Begin with the End in Mind means to begin each day, task, or project with a clear vision of your desired direction and destination, and then continue by flexing your proactive muscles to make things happen.\nOne of the best ways to incorporate Habit 2 into your life is to develop a Personal Mission Statement. It focuses on what you want to be and do. It is your plan for success. It reaffirms who you are, puts your goals in focus, and moves your ideas into the real world. Your mission statement makes you the leader of your own life. You create your own destiny and secure the future you envision. Habit 3: Put First Things First To live a more balanced existence, you have to recognize that not doing everything that comes along is okay. There\u0026rsquo;s no need to overextend yourself. All it takes is realizing that it\u0026rsquo;s all right to say no when necessary and then focus on your highest priorities.\nHabit 1 says, \u0026ldquo;You\u0026rsquo;re in charge. You\u0026rsquo;re the creator.\u0026rdquo; Being proactive is about choice. Habit 2 is the first, or mental, creation. Beginning with the End in Mind is about vision. Habit 3 is the second creation, the physical creation. This habit is where Habits 1 and 2 come together. It happens day in and day out, moment-by-moment. It deals with many of the questions addressed in the field of time management. But that\u0026rsquo;s not all it\u0026rsquo;s about. Habit 3 is about life management as well\u0026ndash;your purpose, values, roles, and priorities. What are \u0026ldquo;first things?\u0026rdquo; First things are those things you, personally, find of most worth. If you put first things first, you are organizing and managing time and events according to the personal priorities you established in Habit 2. Habit 4: Think Win-Win Think Win-Win isn\u0026rsquo;t about being nice, nor is it a quick-fix technique. It is a character-based code for human interaction and collaboration.\nMost of us learn to base our self-worth on comparisons and competition. We think about succeeding in terms of someone else failing\u0026ndash;that is, if I win, you lose; or if you win, I lose. Life becomes a zero-sum game. There is only so much pie to go around, and if you get a big piece, there is less for me; it\u0026rsquo;s not fair, and I\u0026rsquo;m going to make sure you don\u0026rsquo;t get anymore. We all play the game, but how much fun is it really?\nWin-win sees life as a cooperative arena, not a competitive one. Win-win is a frame of mind and heart that constantly seeks mutual benefit in all human interactions. Win-win means agreements or solutions are mutually beneficial and satisfying. We both get to eat the pie, and it tastes pretty darn good!\nA person or organization that approaches conflicts with a win-win attitude possesses three vital character traits: 1. Integrity: sticking with your true feelings, values, and commitments 2. Maturity: expressing your ideas and feelings with courage and consideration for the ideas and feelings of others 3. Abundance Mentality: believing there is plenty for everyone Many people think in terms of either/or: either you\u0026rsquo;re nice or you\u0026rsquo;re tough. Win-win requires that you be both. It is a balancing act between courage and consideration. To go for win-win, you not only have to be empathic, but you also have to be confident. You not only have to be considerate and sensitive, you also have to be brave. To do that\u0026ndash;to achieve that balance between courage and consideration\u0026ndash;is the essence of real maturity and is fundamental to win-win. Habit 5: Seek First to Understand, Then to Be Understood Communication is the most important skill in life. You spend years learning how to read and write, and years learning how to speak. But what about listening? What training have you had that enables you to listen so you really, deeply understand another human being? Probably none, right?\nIf you\u0026rsquo;re like most people, you probably seek first to be understood; you want to get your point across. And in doing so, you may ignore the other person completely, pretend that you\u0026rsquo;re listening, selectively hear only certain parts of the conversation or attentively focus on only the words being said, but miss the meaning entirely. So why does this happen? Because most people listen with the intent to reply, not to understand. You listen to yourself as you prepare in your mind what you are going to say, the questions you are going to ask, etc. You filter everything you hear through your life experiences, your frame of reference. You check what you hear against your autobiography and see how it measures up. And consequently, you decide prematurely what the other person means before he/she finishes communicating. Do any of the following sound familiar?\n\u0026ldquo;Oh, I know just how you feel. I felt the same way.\u0026rdquo; \u0026ldquo;I had that same thing happen to me.\u0026rdquo; \u0026ldquo;Let me tell you what I did in a similar situation.\u0026rdquo;\nBecause you so often listen autobiographically, you tend to respond in one of four ways: Evaluating: You judge and then either agree or disagree. Probing: You ask questions from your own frame of reference. Advising: You give counsel, advice, and solutions to problems. Interpreting: You analyze others\u0026rsquo; motives and behaviors based on your own experiences.\nYou might be saying, \u0026ldquo;Hey, now wait a minute. I\u0026rsquo;m just trying to relate to the person by drawing on my own experiences. Is that so bad?\u0026rdquo; In some situations, autobiographical responses may be appropriate, such as when another person specifically asks for help from your point of view or when there is already a very high level of trust in the relationship. Habit 6: Synergize To put it simply, synergy means \u0026ldquo;two heads are better than one.\u0026rdquo; Synergize is the habit of creative cooperation. It is teamwork, open-mindedness, and the adventure of finding new solutions to old problems. But it doesn\u0026rsquo;t just happen on its own. It\u0026rsquo;s a process, and through that process, people bring all their personal experience and expertise to the table. Together, they can produce far better results that they could individually. Synergy lets us discover jointly things we are much less likely to discover by ourselves. It is the idea that the whole is greater than the sum of the parts. One plus one equals three, or six, or sixty\u0026ndash;you name it.\nWhen people begin to interact together genuinely, and they\u0026rsquo;re open to each other\u0026rsquo;s influence, they begin to gain new insight. The capability of inventing new approaches is increased exponentially because of differences.\nValuing differences is what really drives synergy. Do you truly value the mental, emotional, and psychological differences among people? Or do you wish everyone would just agree with you so you could all get along? Many people mistake uniformity for unity; sameness for oneness. One word\u0026ndash;boring! Differences should be seen as strengths, not weaknesses. They add zest to life. Habit 7: Sharpen the Saw Sharpen the Saw means preserving and enhancing the greatest asset you have\u0026ndash;you. It means having a balanced program for self-renewal in the four areas of your life: physical, social/emotional, mental, and spiritual. Here are some examples of activities: Physical: Beneficial eating, exercising, and resting Social/Emotional: Making social and meaningful connections with others Mental: Learning, reading, writing, and teaching Spiritual: Spending time in nature, expanding spiritual self through meditation, music, art, prayer, or service\nAs you renew yourself in each of the four areas, you create growth and change in your life. Sharpen the Saw keeps you fresh so you can continue to practice the other six habits. You increase your capacity to produce and handle the challenges around you. Without this renewal, the body becomes weak, the mind mechanical, the emotions raw, the spirit insensitive, and the person selfish. Not a pretty picture, is it?\nFeeling good doesn\u0026rsquo;t just happen. Living a life in balance means taking the necessary time to renew yourself. It\u0026rsquo;s all up to you. You can renew yourself through relaxation. Or you can totally burn yourself out by overdoing everything. You can pamper yourself mentally and spiritually. Or you can go through life oblivious to your well-being. You can experience vibrant energy. Or you can procrastinate and miss out on the benefits of good health and exercise. You can revitalize yourself and face a new day in peace and harmony. Or you can wake up in the morning full of apathy because your get-up-and-go has got-up-and-gone. Just remember that every day provides a new opportunity for renewal\u0026ndash;a new opportunity to recharge yourself instead of hitting the wall. All it takes is the desire, knowledge, and skill.\n3 types of people • Those that make things happen • Those that watch things happen • Those that say “what happened?” There is always going to be someone better, always. That shouldn’t stop you from putting on the best performance possible. Yesterday, did I do my best to: 1. Be (increase) happy? 2. Find meaning? 3. Be fully engaged? 4. Build relationships? 5. Set clear goals? 6. Make progress towards those goals? Test yourself on these daily. 1. Say quote. 2. Do these. Write them down. MBFFF\nEmotional Intelligence As you move up Skills become less important. Relationships, the ability to inspire and motivate. Relationship management. Emphasize. How to bring these skills to the forefront when things get intense.\nObjectives Our brains are wired to avoid conflict, to keep us safe. Increase your ability to stay uncomfortable. To share information that needs to be shared to maintain / stay committed to a common goal. It’s not about group hugs. It’s about having enough skill to stay in a relationship long enough to get done what needs to get done.\n"
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/books1/",
+	"uri": "https://tbro28.github.io/tlt/self/nowhabit/",
 	"title": "The Now Habit",
 	"tags": [],
 	"description": "The Attachments shortcode displays a list of files attached to a page.",
@@ -427,7 +518,7 @@
 	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   Artifactory   Git   Github   {{% children description=\u0026quot;true\u0026quot; %}}   Artifactory  This is a demo child page\n Git  This is a demo child page\n Github  This is a demo child page\n {{% children nohidden=\u0026quot;true\u0026quot; %}}   Artifactory   Git   Github   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   Artifactory  This is a demo child page\n Git  This is a demo child page\n Github  This is a demo child page\n {{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   Artifactory   Git   Github   "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/knowledge/books3/",
+	"uri": "https://tbro28.github.io/tlt/self/90seconds/",
 	"title": "You&#39;ve Only Got 90 Seconds",
 	"tags": [],
 	"description": "The Attachments shortcode displays a list of files attached to a page.",
@@ -459,7 +550,7 @@
 	"title": "children",
 	"tags": [],
 	"description": "List the child pages of a page",
-	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   page 1   page 2   page 3   page 4   {{% children description=\u0026quot;true\u0026quot; %}}   page 1  This is a demo child page\n page 2  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n page 3  This is a demo child page\n page 4  This is a demo child page\n {{% children nohidden=\u0026quot;true\u0026quot; %}}   page 1   page 2   page 3   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   page 1  This is a demo child page\n  page 1-1  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n  page 1-1-1  This is a demo child page\n \n page 2  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n page 3  This is a demo child page\n page 4  This is a demo child page\n\n{{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   page 1    page 1-1    page 1-1-1    page 1-1-1-1    page 1-1-1-1-1   \n\n\n page 2   page 3   page 4  \n"
+	"content": " Use the children shortcode to list the child pages of a page and the further descendants (children\u0026rsquo;s children). By default, the shortcode displays links to the child pages.\nUsage    Parameter Default Description     style \u0026ldquo;li\u0026rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden \u0026ldquo;false\u0026rdquo; When true, child pages hidden from the menu will not display   description \u0026ldquo;false\u0026rdquo; Allows you to include a short text under each page in the list.when no desription exists for the page, children shortcode takes the first 70 words of your content. read more info about summaries on gohugo.io   depth 1 Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. Tips: set 999 to get all descendants    sort none Sort Children By\nWeight - to sort on menu orderName - to sort alphabetically on menu labelIdentifier - to sort alphabetically on identifier set in frontmatterURL - URL    Demo {{% children %}}   page 1   page 2   page 3   page 4   {{% children description=\u0026quot;true\u0026quot; %}}   page 1  This is a demo child page\n page 2  \n page 3  This is a demo child page\n page 4  This is a demo child page\n {{% children nohidden=\u0026quot;true\u0026quot; %}}   page 1   page 2   page 3   {{% children style=\u0026quot;h3\u0026quot; depth=\u0026quot;3\u0026quot; description=\u0026quot;true\u0026quot; %}}   page 1  This is a demo child page\n  page 1-1  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n  page 1-1-1  This is a demo child page\n \n page 2  \n page 3  This is a demo child page\n page 4  This is a demo child page\n\n{{% children style=\u0026quot;div\u0026quot; depth=\u0026quot;999\u0026quot; %}}   page 1    page 1-1    page 1-1-1    page 1-1-1-1    page 1-1-1-1-1   \n\n\n page 2   page 3   page 4  \n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/shortcode/excerpt/",

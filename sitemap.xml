@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopsknowledge/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/devops/devopstools/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -53,17 +58,32 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/leadership/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/leadership/leadershipknowledge/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/test/leadershipknowledge/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/leadership/becc/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/logo/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/management/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -78,12 +98,27 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/organizations/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/page-slide/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/self/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/test/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/testknowledge/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -109,10 +144,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/books/</loc>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/categories/</loc>
     <priority>0</priority>
   </url>
@@ -135,6 +166,10 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/test/testframeworks1/</loc>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/customizestyle/</loc>
   </url>
   
@@ -150,12 +185,20 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/test/testframeworks2/</loc>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/environments/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/ci/frameworks/</loc>
+    <loc>https://tbro28.github.io/tlt/ci/ciframeworks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/test/testframeworks/</loc>
   </url>
   
   <url>
@@ -175,7 +218,11 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/blogs1/</loc>
+    <loc>https://tbro28.github.io/tlt/test/jmeter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/organizations/joelspolsky/</loc>
   </url>
   
   <url>
@@ -183,13 +230,21 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/</loc>
+    <loc>https://tbro28.github.io/tlt/leadership/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/leader/</loc>
-    <priority>0</priority>
+    <loc>https://tbro28.github.io/tlt/self/levelingup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/test/levelingup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/test/loadrunner/</loc>
   </url>
   
   <url>
@@ -206,15 +261,25 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/blogs/</loc>
+    <loc>https://tbro28.github.io/tlt/devops/noops/</loc>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/papers/</loc>
+    <loc>https://tbro28.github.io/tlt/organizations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/test/performance/</loc>
   </url>
   
   <url>
     <loc>https://tbro28.github.io/tlt/test/uiauto2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/self/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -245,20 +310,17 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/leader/test/</loc>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/test/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/books2/</loc>
+    <loc>https://tbro28.github.io/tlt/self/7habits/</loc>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/books1/</loc>
+    <loc>https://tbro28.github.io/tlt/self/nowhabit/</loc>
   </url>
   
   <url>
@@ -282,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/knowledge/books3/</loc>
+    <loc>https://tbro28.github.io/tlt/self/90seconds/</loc>
   </url>
   
   <url>

@@ -80,7 +80,17 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- DevOps Tools  
+ DevOps Knowledge  A bunch of Shortcodes are available with this theme : NoOps The Attachments shortcode displays a list of files attached to a page.  DevOps Tools  A bunch of Shortcodes are available with this theme : Ansible  </description>
+    </item>
+    
+    <item>
+      <title>DevOps Knowledge</title>
+      <link>https://tbro28.github.io/tlt/devops/devopsknowledge/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopsknowledge/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
+ NoOps  The Attachments shortcode displays a list of files attached to a page.
  </description>
     </item>
     
@@ -91,7 +101,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Ansible  A bunch of Shortcodes are available with this theme :  </description>
+ Ansible  
+ </description>
     </item>
     
     <item>
@@ -107,27 +118,55 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
     </item>
     
     <item>
-      <title>Knowledge</title>
-      <link>https://tbro28.github.io/tlt/knowledge/</link>
-      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/knowledge/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- Books  The Attachments shortcode displays a list of files attached to a page.
- Papers  The Attachments shortcode displays a list of files attached to a page.
- Papers  The Attachments shortcode displays a list of files attached to a page.
- </description>
-    </item>
-    
-    <item>
       <title>Leadership</title>
       <link>https://tbro28.github.io/tlt/leadership/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/leadership/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Test Team Leadership  The Attachments shortcode displays a list of files attached to a page.
+ Leadership Knowledge  
+ Leadership Principles  
  </description>
+    </item>
+    
+    <item>
+      <title>Leadership Knowledge</title>
+      <link>https://tbro28.github.io/tlt/leadership/leadershipknowledge/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/leadership/leadershipknowledge/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
+ </description>
+    </item>
+    
+    <item>
+      <title>Leadership Knowledge</title>
+      <link>https://tbro28.github.io/tlt/test/leadershipknowledge/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/test/leadershipknowledge/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
+ </description>
+    </item>
+    
+    <item>
+      <title>Leadership Principles</title>
+      <link>https://tbro28.github.io/tlt/leadership/becc/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/leadership/becc/</guid>
+      <description>Leadership https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf
+BECC
+• Believe
+• Encouraged
+• Challenged
+• Corrected
+The last C is probably the most important.
+Leaders develop followers and other leaders. It’s not about having subordinates.
+Creating a tribe versus a positional structuring.
+The business of following is voluntary.
+If my position, title, role, or formal authority was removed would people still gladly follow me?
+People largely don’t want to be managed; they want to follow a leader.</description>
     </item>
     
     <item>
@@ -138,6 +177,16 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <guid>https://tbro28.github.io/tlt/logo/</guid>
       <description>Create a _header.md page in content folder. Its content is what you get in the logo placeholder (top left of the screen).
 Logo placeholder consideration Do not set [menu.main] in the frontmatter of your _header.md file  Tip : you can add a image, a combobox with links to other documentation&amp;hellip;. Tip 2 : look at extra static menu if you want to add links to other website in this sidebar </description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>https://tbro28.github.io/tlt/management/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/management/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
+ </description>
     </item>
     
     <item>
@@ -163,6 +212,17 @@ Logo placeholder consideration Do not set [menu.main] in the frontmatter of your
     </item>
     
     <item>
+      <title>Organizations</title>
+      <link>https://tbro28.github.io/tlt/organizations/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/organizations/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
+ Joel on Software  The Attachments shortcode displays a list of files attached to a page.
+ </description>
+    </item>
+    
+    <item>
       <title>Present a Slide</title>
       <link>https://tbro28.github.io/tlt/page-slide/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
@@ -174,14 +234,40 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
     </item>
     
     <item>
+      <title>Self</title>
+      <link>https://tbro28.github.io/tlt/self/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/self/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
+ Leveling Up  The Attachments shortcode displays a list of files attached to a page.
+ The 7 Habits of Highly Effective People  The Attachments shortcode displays a list of files attached to a page.
+ The Now Habit  The Attachments shortcode displays a list of files attached to a page.
+ You&amp;#39;ve Only Got 90 Seconds  The Attachments shortcode displays a list of files attached to a page.</description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://tbro28.github.io/tlt/test/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/</guid>
       <description>A bunch of Shortcodes are available with this theme :
+ Test Knowledge  
+ Frameworks  List the child pages of a page
+ Performance  List the child pages of a page
  UI Automation  List the child pages of a page
  Version Control  List the child pages of a page
+ </description>
+    </item>
+    
+    <item>
+      <title>Test Knowledge</title>
+      <link>https://tbro28.github.io/tlt/testknowledge/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/testknowledge/</guid>
+      <description>A bunch of Shortcodes are available with this theme :
  </description>
     </item>
     
@@ -240,18 +326,6 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
     </item>
     
     <item>
-      <title>Books</title>
-      <link>https://tbro28.github.io/tlt/knowledge/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/knowledge/books/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
-    </item>
-    
-    <item>
       <title>Cloud Environments</title>
       <link>https://tbro28.github.io/tlt/environments/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -279,7 +353,16 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/credits/</guid>
-      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 141 commits   @matcornic 49 commits   @gwleclerc 17 commits   @lierdakil 16 commits   @Xipas 5 commits   @altinnadmin 4 commits   @Thiht 2 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
+      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 219 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @FMuro 2 commits   @jose-oc 2 commits   @Thiht 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @EnigmaCurry 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
+    </item>
+    
+    <item>
+      <title>Cucumber, Selenium, and Eclipse</title>
+      <link>https://tbro28.github.io/tlt/test/testframeworks1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/test/testframeworks1/</guid>
+      <description>This is a demo child page</description>
     </item>
     
     <item>
@@ -294,11 +377,30 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
     </item>
     
     <item>
-      <title>Frameworks</title>
-      <link>https://tbro28.github.io/tlt/ci/frameworks/</link>
+      <title>Eclipse with Selenium</title>
+      <link>https://tbro28.github.io/tlt/test/testframeworks2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/ci/frameworks/</guid>
+      <guid>https://tbro28.github.io/tlt/test/testframeworks2/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    
+    <item>
+      <title>Frameworks</title>
+      <link>https://tbro28.github.io/tlt/ci/ciframeworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/ci/ciframeworks/</guid>
+      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
+Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+    </item>
+    
+    <item>
+      <title>Frameworks</title>
+      <link>https://tbro28.github.io/tlt/test/testframeworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/test/testframeworks/</guid>
       <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
 Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
     </item>
@@ -342,11 +444,20 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     </item>
     
     <item>
-      <title>Joel on Software</title>
-      <link>https://tbro28.github.io/tlt/knowledge/blogs1/</link>
+      <title>JMeter</title>
+      <link>https://tbro28.github.io/tlt/test/jmeter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/knowledge/blogs1/</guid>
+      <guid>https://tbro28.github.io/tlt/test/jmeter/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    
+    <item>
+      <title>Joel on Software</title>
+      <link>https://tbro28.github.io/tlt/organizations/joelspolsky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/organizations/joelspolsky/</guid>
       <description>Joel on Software You could do A LOT worse than reading at least 50 of the 1000+ papers Joel Spolsky has written.
 Joel on Software Site
 If anything at least read these: * Things You Should Never Do, Part I * The Iceberg Secret, Revealed * Fire And Motion * The Law of Leaky Abstractions * The Development Abstraction Layer
@@ -363,6 +474,33 @@ If anything at least read these: * Things You Should Never Do, Part I * The Iceb
  Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
  If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
   content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+    </item>
+    
+    <item>
+      <title>Leveling Up</title>
+      <link>https://tbro28.github.io/tlt/self/levelingup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/self/levelingup/</guid>
+      <description>Taking your engineering &amp;amp; operations role to the next level https://www.youtube.com/watch?v=lgxEmiMJVq4</description>
+    </item>
+    
+    <item>
+      <title>Leveling Up</title>
+      <link>https://tbro28.github.io/tlt/test/levelingup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/test/levelingup/</guid>
+      <description>Taking your engineering &amp;amp; operations role to the next level https://www.youtube.com/watch?v=lgxEmiMJVq4</description>
+    </item>
+    
+    <item>
+      <title>LoadRunner</title>
+      <link>https://tbro28.github.io/tlt/test/loadrunner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/test/loadrunner/</guid>
+      <description>This is a demo child page</description>
     </item>
     
     <item>
@@ -388,27 +526,22 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     </item>
     
     <item>
-      <title>Papers</title>
-      <link>https://tbro28.github.io/tlt/knowledge/blogs/</link>
+      <title>NoOps</title>
+      <link>https://tbro28.github.io/tlt/devops/noops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/knowledge/blogs/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+      <guid>https://tbro28.github.io/tlt/devops/noops/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Papers</title>
-      <link>https://tbro28.github.io/tlt/knowledge/papers/</link>
+      <title>Performance</title>
+      <link>https://tbro28.github.io/tlt/test/performance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/knowledge/papers/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
+      <guid>https://tbro28.github.io/tlt/test/performance/</guid>
+      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
+Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
     </item>
     
     <item>
@@ -431,32 +564,20 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     </item>
     
     <item>
-      <title>Test Team Leadership</title>
-      <link>https://tbro28.github.io/tlt/leader/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/leader/test/</guid>
-      <description>The Attachments shortcode displays a list of files attached to a page. Example :   Attachments 
- Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
- If your page is a markdown file, attachements must be place in a folder named like your page and ending with .files.
-  content  _index.md page.files  attachment.pdf  page.md    If your page is a folder, attachements must be place in a nested &amp;lsquo;files&amp;rsquo; folder.</description>
-    </item>
-    
-    <item>
       <title>The 7 Habits of Highly Effective People</title>
-      <link>https://tbro28.github.io/tlt/knowledge/books2/</link>
+      <link>https://tbro28.github.io/tlt/self/7habits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/knowledge/books2/</guid>
+      <guid>https://tbro28.github.io/tlt/self/7habits/</guid>
       <description>The 7 Habits of Highly Effective People Habit 1: Be Proactive Your life doesn&amp;rsquo;t just &amp;ldquo;happen.&amp;rdquo; Whether you know it or not, it is carefully designed by you. The choices, after all, are yours. You choose happiness. You choose sadness. You choose decisiveness. You choose ambivalence. You choose success. You choose failure. You choose courage. You choose fear. Just remember that every moment, every situation, provides a new choice. And in doing so, it gives you a perfect opportunity to do things differently to produce more positive results.</description>
     </item>
     
     <item>
       <title>The Now Habit</title>
-      <link>https://tbro28.github.io/tlt/knowledge/books1/</link>
+      <link>https://tbro28.github.io/tlt/self/nowhabit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/knowledge/books1/</guid>
+      <guid>https://tbro28.github.io/tlt/self/nowhabit/</guid>
       <description>The Now Habit Key Takeaways and Insights
 Live your life from choice A leadership function of your higher, human brain and your new identity as a producer.
 Procrastinators do finish, but the work at the last minute creates unnecessary anxiety and diminishes quality.
@@ -519,10 +640,10 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
     
     <item>
       <title>You&#39;ve Only Got 90 Seconds</title>
-      <link>https://tbro28.github.io/tlt/knowledge/books3/</link>
+      <link>https://tbro28.github.io/tlt/self/90seconds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/knowledge/books3/</guid>
+      <guid>https://tbro28.github.io/tlt/self/90seconds/</guid>
       <description>You&amp;rsquo;ve Only Got 90 Seconds A Sunny Disposition Likability has something to do with how you look but a lot more to do with how you make people feel. • Likeable people give loud and clear signals of their willingness to be sociable; they reveal that their public communication channels are open. Embedded in these signals is evidence of self-confidence, sincerity and trust.
 Instinctively, we assess, undress and best-guess each other.</description>
     </item>
