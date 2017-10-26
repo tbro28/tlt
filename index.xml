@@ -79,8 +79,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- DevOps Knowledge  A bunch of Shortcodes are available with this theme : NoOps The Attachments shortcode displays a list of files attached to a page.  DevOps Tools  A bunch of Shortcodes are available with this theme : Ansible  </description>
+      <description>  DevOps Knowledge  
+ DevOps Tools  A bunch of Shortcodes are available with this theme : Ansible A bunch of Shortcodes are available with this theme :  </description>
     </item>
     
     <item>
@@ -101,8 +101,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Ansible  
- </description>
+ Ansible  A bunch of Shortcodes are available with this theme :  </description>
     </item>
     
     <item>
@@ -125,8 +124,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <guid>https://tbro28.github.io/tlt/leadership/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  Leadership Knowledge  
- Leadership Principles  
- </description>
+ Leadership Principles  Leadership https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary. If my position, title, role, or formal authority was removed would people still gladly follow me?</description>
     </item>
     
     <item>
@@ -135,16 +133,6 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/leadership/leadershipknowledge/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- </description>
-    </item>
-    
-    <item>
-      <title>Leadership Knowledge</title>
-      <link>https://tbro28.github.io/tlt/test/leadershipknowledge/</link>
-      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/test/leadershipknowledge/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  </description>
     </item>
@@ -240,7 +228,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       
       <guid>https://tbro28.github.io/tlt/self/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Leveling Up  The Attachments shortcode displays a list of files attached to a page.
+ Leveling Up  Taking your engineering &amp;amp; operations role to the next level.
  The 7 Habits of Highly Effective People  The Attachments shortcode displays a list of files attached to a page.
  The Now Habit  The Attachments shortcode displays a list of files attached to a page.
  You&amp;#39;ve Only Got 90 Seconds  The Attachments shortcode displays a list of files attached to a page.</description>
@@ -252,13 +240,14 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/</guid>
-      <description>A bunch of Shortcodes are available with this theme :
- Test Knowledge  
+      <description>Where?
  Frameworks  List the child pages of a page
- Performance  List the child pages of a page
- UI Automation  List the child pages of a page
- Version Control  List the child pages of a page
- </description>
+  Cucumber, Selenium, and Eclipse  BDD Framework.
+ Eclipse with Selenium  Popular UI automation tool and Java IDE.
+  Performance  Performance Tools and Approaches.
+  JMeter  Load testing tool.
+ LoadRunner  Comprehensive load testing solution.
+  Test Knowledge  A bunch of Shortcodes are available with this theme :  UI Automation  Various UI automation tools.</description>
     </item>
     
     <item>
@@ -362,7 +351,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/testframeworks1/</guid>
-      <description>This is a demo child page</description>
+      <description>This outlines a common BDD framework built on open source tools.</description>
     </item>
     
     <item>
@@ -382,7 +371,7 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/testframeworks2/</guid>
-      <description>This is a demo child page</description>
+      <description>Setting up and using a popular UI automation tool and Java IDE.</description>
     </item>
     
     <item>
@@ -401,8 +390,7 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/testframeworks/</guid>
-      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
-Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+      <description> Frameworks  Cucumber, Selenium, and Eclipse   Eclipse with Selenium   </description>
     </item>
     
     <item>
@@ -449,7 +437,8 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/jmeter/</guid>
-      <description>This is a demo child page</description>
+      <description>Given that the cost of LoadRunner is extremely high, JMeter is a popular open source alternative. Definitely not as polished and easy to learn and Load Runner, but free is free!
+Apache JMeter.</description>
     </item>
     
     <item>
@@ -482,16 +471,8 @@ If anything at least read these: * Things You Should Never Do, Part I * The Iceb
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/self/levelingup/</guid>
-      <description>Taking your engineering &amp;amp; operations role to the next level https://www.youtube.com/watch?v=lgxEmiMJVq4</description>
-    </item>
-    
-    <item>
-      <title>Leveling Up</title>
-      <link>https://tbro28.github.io/tlt/test/levelingup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/test/levelingup/</guid>
-      <description>Taking your engineering &amp;amp; operations role to the next level https://www.youtube.com/watch?v=lgxEmiMJVq4</description>
+      <description>Taking your engineering &amp;amp; operations role to the next level One of the funnier tech presentations that I have ever run across with plenty of good content.
+Apache JMeter.</description>
     </item>
     
     <item>
@@ -500,7 +481,7 @@ If anything at least read these: * Things You Should Never Do, Part I * The Iceb
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/loadrunner/</guid>
-      <description>This is a demo child page</description>
+      <description>Now a Micro Focus owned tool (as of Sept 1, 2017) it was easily one of the most complete and easy to use tools that I have run across as a tester. I had already used UI automation tools beforehand, but the flow of the tool and analysis is extremely good.</description>
     </item>
     
     <item>
@@ -540,8 +521,9 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/performance/</guid>
-      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
-Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+      <description> Tools and Approaches  JMeter  Load testing tool.
+ LoadRunner  Comprehensive load testing solution.
+ </description>
     </item>
     
     <item>
@@ -550,7 +532,7 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/uiauto2/</guid>
-      <description>This is a demo child page</description>
+      <description>This is one of those open source tools that surprised me by how well it works. It has a substantial support network and most issues that people have run into are fairly easy to find through Google. You&amp;rsquo;ll see a lot of test framework examples that utilize Selenium as their UI automation tool.</description>
     </item>
     
     <item>
@@ -578,11 +560,11 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/self/nowhabit/</guid>
-      <description>The Now Habit Key Takeaways and Insights
-Live your life from choice A leadership function of your higher, human brain and your new identity as a producer.
+      <description>The Now Habit Key Takeaways and Insights Live your life from choice
+A leadership function of your higher, human brain and your new identity as a producer.
 Procrastinators do finish, but the work at the last minute creates unnecessary anxiety and diminishes quality.
 Procrastination is a mechanism for coping with the anxiety associated with starting or completing any task or decision.
- Creating safety Reprogramming negative attitudes through positive self-talk Using the symptom to trigger the cure Guilt-free play Three-dimensional thinking and the reverse calendar Making worry work for you The Unschedule Setting realistic goals Working in the flow state Controlled setbacks  Our worst critic is ourselves • Feeling that you need to force yourself, that you need internal conflict because it is human nature to be lazy.</description>
+ Creating safety Reprogramming negative attitudes through positive self-talk Using the symptom to trigger the cure Guilt-free play Three-dimensional thinking and the reverse calendar Making worry work for you The Unschedule Setting realistic goals Working in the flow state Controlled setbacks  Our worst critic is ourselves</description>
     </item>
     
     <item>
@@ -603,7 +585,7 @@ Variant &amp;ldquo;green&amp;rdquo; themeVariant = &amp;quot;green&amp;quot;</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/uiauto1/</guid>
-      <description>This is a demo child page</description>
+      <description>Now a Micro Focus owned tool (as of Sept 1, 2017) that has been evolving pretty rapidly as a result of competition from a variety of competitors. Lots of versatility allows it to be used to automate way more than simply web pages. It can be buggy and over the years I have needed to periodically reinstall it, because it eventually stops finding objects. Like most automation tools the is a record option, but it does require coding and you&amp;rsquo;ll likely be primarily be writing code with it.</description>
     </item>
     
     <item>
@@ -612,8 +594,9 @@ Variant &amp;ldquo;green&amp;rdquo; themeVariant = &amp;quot;green&amp;quot;</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/test/uiauto/</guid>
-      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.
-Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name   nohidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will not display   description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+      <description> UI Automation Tools  Selenium  Extremely popular web page automation tool
+ UFT  Extremely versatile UI automation tool.
+ </description>
     </item>
     
     <item>

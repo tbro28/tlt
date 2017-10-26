@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="generator" content="Hugo 0.21" />
-    <meta name="description" content="List the child pages of a page">
+    <meta name="description" content="Various UI automation tools.">
 
 
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
@@ -1349,8 +1349,7 @@
 <ul>
 <li>
 <ul>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#demo">Demo</a></li>
+<li><a href="#ui-automation-tools">UI Automation Tools</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -1368,190 +1367,19 @@
 
 
 
-<p>Use the children shortcode to list the child pages of a page and the further descendants (children&rsquo;s children). By default, the shortcode displays links to the child pages.</p>
+<h2 id="ui-automation-tools">UI Automation Tools</h2>
 
-<h2 id="usage">Usage</h2>
 
-<table>
-<thead>
-<tr>
-<th align="left">Parameter</th>
-<th align="left">Default</th>
-<th align="left">Description</th>
-</tr>
-</thead>
 
-<tbody>
-<tr>
-<td align="left">style</td>
-<td align="left">&ldquo;li&rdquo;</td>
-<td align="left">Choose the style used to display descendants. It could be any HTML tag name</td>
-</tr>
 
-<tr>
-<td align="left">nohidden</td>
-<td align="left">&ldquo;false&rdquo;</td>
-<td align="left">When true, child pages hidden from the menu will not display</td>
-</tr>
 
-<tr>
-<td align="left">description</td>
-<td align="left">&ldquo;false&rdquo;</td>
-<td align="left">Allows you to include a short text under each page in the list.<br/>when no desription exists for the page, children shortcode takes the first 70 words of your content. <a href="https://gohugo.io/content/summaries/">read more info about summaries on gohugo.io</a></td>
-</tr>
 
-<tr>
-<td align="left">depth</td>
-<td align="left">1</td>
-<td align="left">Enter a number to specify the depth of descendants to display. For example, if the value is 2, the shortcode will display 2 levels of child pages. <div class="alert 
-	alert-success"
- 
-role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
-</td>
-</tr>
 
-<tr>
-<td align="left">sort</td>
-<td align="left">none</td>
-<td align="left">Sort Children By<br><li><strong>Weight</strong> - to sort on menu order</li><li><strong>Name</strong> - to sort alphabetically on menu label</li><li><strong>Identifier</strong> - to sort alphabetically on identifier set in frontmatter</li><li><strong>URL</strong> - URL</li></td>
-</tr>
-</tbody>
-</table>
-
-<h2 id="demo">Demo</h2>
-
-<pre><code>{{% children  %}}
-</code></pre>
-
-
-
-
-
-
-
-
-<ul class="children children-li">
-	
-	
-		 
-
-
-
-<li>
-<a href="/tlt/test/uiauto2/" >Selenium</a>
-</li>
-
-
-
-		
-		
-	
-		 
-
-
-
-<li>
-<a href="/tlt/test/uiauto1/" >UFT</a>
-</li>
-
-
-
-		
-		
-	
-	
-</ul>
-
-
-<pre><code>{{% children description=&quot;true&quot;   %}}
-</code></pre>
-
-<ul class="children children-li">
-    
-    
-         
-
-
-
-<li>
-<a href="/tlt/test/uiauto2/" >Selenium</a>
-</li>
-
-
-    
-<p>This is a demo child page</p>
-    
-
-
-
-
-        
-        
-    
-         
-
-
-
-<li>
-<a href="/tlt/test/uiauto1/" >UFT</a>
-</li>
-
-
-    
-<p>This is a demo child page</p>
-    
-
-
-
-
-        
-        
-    
-    
-</ul>
-
-<pre><code>{{% children nohidden=&quot;true&quot; %}}
-</code></pre>
-
-<ul class="children children-li">
-    
-    
-         
-
-
-
-<li>
-<a href="/tlt/test/uiauto2/" >Selenium</a>
-</li>
-
-
-
-        
-        
-    
-         
-
-
-
-<li>
-<a href="/tlt/test/uiauto1/" >UFT</a>
-</li>
-
-
-
-        
-        
-    
-    
-</ul>
-
-<pre><code>{{% children style=&quot;h3&quot; depth=&quot;3&quot; description=&quot;true&quot; %}}
-</code></pre>
 
 <ul class="children children-h3">
-    
-    
-         
+	
+	
+		 
 
 
 
@@ -1560,19 +1388,19 @@ role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
 </h3>
 
 
-    
-<p>This is a demo child page</p>
-    
+	
+<p>Extremely popular web page automation tool</p>
+	
 
 
 
 
-        
-        
-            
-        
-    
-         
+		
+		
+			
+		
+	
+		 
 
 
 
@@ -1581,59 +1409,22 @@ role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
 </h3>
 
 
-    
-<p>This is a demo child page</p>
-    
+	
+<p>Extremely versatile UI automation tool.</p>
+	
 
 
 
 
-        
-        
-            
-        
-    
-    
+		
+		
+			
+		
+	
+	
 </ul>
 
-<pre><code>{{% children style=&quot;div&quot; depth=&quot;999&quot; %}}
-</code></pre>
 
-<ul class="children children-div">
-    
-    
-         
-
-
-
-<div>
-<a href="/tlt/test/uiauto2/" >Selenium</a>
-</div>
-
-
-
-        
-        
-            
-        
-    
-         
-
-
-
-<div>
-<a href="/tlt/test/uiauto1/" >UFT</a>
-</div>
-
-
-
-        
-        
-            
-        
-    
-    
-</ul>
 
 
 
