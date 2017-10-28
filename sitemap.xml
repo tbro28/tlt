@@ -201,10 +201,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/devops/continint/ciframeworks/</loc>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/credits/</loc>
   </url>
   
@@ -234,6 +230,10 @@
   <url>
     <loc>https://tbro28.github.io/tlt/environments/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/continint/ciframeworks/</loc>
   </url>
   
   <url>

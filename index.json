@@ -53,14 +53,14 @@
 	"title": "Continuous Integration",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Continuous Integration Frameworks  Ideas, tools, and thoughts on CI frameworks.\n "
+	"content": "A bunch of Shortcodes are available with this theme :\n Frameworks  Ideas, tools, and thoughts on CI frameworks.\n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/",
 	"title": "DevOps",
 	"tags": [],
 	"description": "",
-	"content": "  Continuous Integration  \n Continuous Delivery  \n DevOps Knowledge  \n DevOps Tools  \n "
+	"content": "  Continuous Integration  A bunch of Shortcodes are available with this theme : Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge   Changing Culture \u0026amp; Being a force for Awesome Velocity 2012: Jesse Robbins. Jez Humble | Continuous Delivery Jez Humble\u0026#39;s thoughts on CD. NoOps - DevOpsDays Portland, 2016: Kelsey Hightower The Attachments shortcode displays a list of files attached to a page. Why Scaling Agile Doesn\u0026#39;t Work Jez Humble\u0026#39;s thoughts on the problems with scaled frameworks.  DevOps Tools   Build Tools Jenkins Jenkins Container Tools Docker Kubernetes Packer Infrastructure Automation Ansible Ansible Programming Languages Python  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopsknowledge/",
@@ -74,7 +74,7 @@
 	"title": "DevOps Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Build Tools   Jenkins   Jenkins   Jenkins   Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes   Kubernetes  Packer  \n  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  \n  Python  \n  "
+	"content": "  Build Tools   Jenkins   Jenkins  \n  Container Tools  \n  Docker  \n Kubernetes  \n Packer  \n  Infrastructure Automation  \n  Ansible   Ansible   Programming Languages  \n  Python  \n  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/docker/",
@@ -287,13 +287,6 @@
 	"content": "When building the website, you can set a theme by using --theme option. We suggest you to edit your configuration file and set the theme by default. Example with config.toml format. theme = \u0026quot;docdock\u0026quot;  Search index generation Add the follow line in the same config.toml file.\n[outputs] home = [ \u0026quot;HTML\u0026quot;, \u0026quot;RSS\u0026quot;, \u0026quot;JSON\u0026quot;]  LUNRJS search index file will be generated on content changes.\nYour website\u0026rsquo;s content Find out how to create and organize your content quickly and intuitively.\n"
 },
 {
-	"uri": "https://tbro28.github.io/tlt/devops/continint/ciframeworks/",
-	"title": "Continuous Integration Frameworks",
-	"tags": [],
-	"description": "Ideas, tools, and thoughts on CI frameworks.",
-	"content": " Continuous Integration Frameworks  Hugo  List the child pages of a page\n "
-},
-{
 	"uri": "https://tbro28.github.io/tlt/credits/",
 	"title": "Credits",
 	"tags": [],
@@ -341,6 +334,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/continint/ciframeworks/",
+	"title": "Frameworks",
+	"tags": [],
+	"description": "Ideas, tools, and thoughts on CI frameworks.",
+	"content": " Continuous Integration Frameworks  Hugo  List the child pages of a page\n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/test/testframeworks/",
