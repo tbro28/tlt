@@ -43,30 +43,52 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
     </item>
     
     <item>
-      <title>Ansible - Infrastructure Automation</title>
-      <link>https://tbro28.github.io/tlt/devops/devopstools1/</link>
+      <title>Ansible</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/ansible/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/devops/devopstools1/</guid>
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/ansible/</guid>
       <description> Ansible </description>
     </item>
     
     <item>
-      <title>Continuous Delivery</title>
-      <link>https://tbro28.github.io/tlt/contindel/</link>
+      <title>Build Tools</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/buildtools/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/contindel/</guid>
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/buildtools/</guid>
+      <description>  Jenkins  
+ </description>
+    </item>
+    
+    <item>
+      <title>Container Tools</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/containertools/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/containertools/</guid>
+      <description>  Docker  
+ Kubernetes  
+ Packer  
+ </description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery</title>
+      <link>https://tbro28.github.io/tlt/devops/contindel/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/contindel/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  </description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://tbro28.github.io/tlt/continint/</link>
+      <link>https://tbro28.github.io/tlt/devops/continint/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/continint/</guid>
+      <guid>https://tbro28.github.io/tlt/devops/continint/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  Continuous Integration Frameworks  Ideas, tools, and thoughts on CI frameworks.
  </description>
@@ -78,7 +100,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
-      <description>  DevOps Knowledge  
+      <description>  Continuous Integration  A bunch of Shortcodes are available with this theme : Continuous Integration Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  
+ DevOps Knowledge  
  DevOps Tools  
  </description>
     </item>
@@ -102,7 +125,21 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/</guid>
-      <description>  Ansible - Infrastructure Automation   Ansible  </description>
+      <description>  Build Tools   Jenkins   Jenkins  
+  Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes  
+ Packer  
+  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  
+  Python  
+  </description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/docker/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/docker/</guid>
+      <description> Docker </description>
     </item>
     
     <item>
@@ -118,13 +155,42 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
     </item>
     
     <item>
+      <title>Infrastructure Automation</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/infratools/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/infratools/</guid>
+      <description>  Ansible   Ansible  </description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/jenkins/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/jenkins/</guid>
+      <description> Jenkins </description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/kubernetes/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/kubernetes/</guid>
+      <description> Kubernetes </description>
+    </item>
+    
+    <item>
       <title>Leadership</title>
       <link>https://tbro28.github.io/tlt/leadership/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/leadership/</guid>
       <description>A bunch of Shortcodes are available with this theme :
- Leadership Knowledge  A bunch of Shortcodes are available with this theme :  Leadership Principles  Leadership https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary.</description>
+ Leadership Knowledge  
+ Managers VS Leaders  
+ </description>
     </item>
     
     <item>
@@ -135,26 +201,6 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <guid>https://tbro28.github.io/tlt/leadership/leadershipknowledge/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  </description>
-    </item>
-    
-    <item>
-      <title>Leadership Principles</title>
-      <link>https://tbro28.github.io/tlt/leadership/becc/</link>
-      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/tlt/leadership/becc/</guid>
-      <description>Leadership https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf
-BECC
-• Believe
-• Encouraged
-• Challenged
-• Corrected
-The last C is probably the most important.
-Leaders develop followers and other leaders. It’s not about having subordinates.
-Creating a tribe versus a positional structuring.
-The business of following is voluntary.
-If my position, title, role, or formal authority was removed would people still gladly follow me?
-People largely don’t want to be managed; they want to follow a leader.</description>
     </item>
     
     <item>
@@ -175,6 +221,26 @@ Logo placeholder consideration Do not set [menu.main] in the frontmatter of your
       <guid>https://tbro28.github.io/tlt/management/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  </description>
+    </item>
+    
+    <item>
+      <title>Managers VS Leaders</title>
+      <link>https://tbro28.github.io/tlt/leadership/becc/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/leadership/becc/</guid>
+      <description>Top 10 Differences Between Managers and Leaders https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf
+BECC
+• Believe
+• Encouraged
+• Challenged
+• Corrected
+The last C is probably the most important.
+Leaders develop followers and other leaders. It’s not about having subordinates.
+Creating a tribe versus a positional structuring.
+The business of following is voluntary.
+If my position, title, role, or formal authority was removed would people still gladly follow me?
+People largely don’t want to be managed; they want to follow a leader.</description>
     </item>
     
     <item>
@@ -211,6 +277,15 @@ Logo placeholder consideration Do not set [menu.main] in the frontmatter of your
     </item>
     
     <item>
+      <title>Packer</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/packer/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/packer/</guid>
+      <description> Packer </description>
+    </item>
+    
+    <item>
       <title>Present a Slide</title>
       <link>https://tbro28.github.io/tlt/page-slide/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
@@ -219,6 +294,25 @@ Logo placeholder consideration Do not set [menu.main] in the frontmatter of your
       <description>A basic md content page can be rendered as a reveal.js presentation full screen.
 You can, also, embed presentation in a page as a small box, using the revealjs shortcode in your md file. Formating Use your common Markdown syntax you use in Hugo, don&amp;rsquo;t forget, you can put html tags too.
 Special syntax (in html comment) is available for adding attributes to Markdown elements. This is useful for fragments, amongst other things.</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/programminglanguages/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/programminglanguages/</guid>
+      <description>  Python  
+ </description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://tbro28.github.io/tlt/devops/devopstools/python/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/devops/devopstools/python/</guid>
+      <description> Python </description>
     </item>
     
     <item>
@@ -343,10 +437,10 @@ Changing Culture &amp;amp; Being a force for Awesome.
     
     <item>
       <title>Continuous Integration Frameworks</title>
-      <link>https://tbro28.github.io/tlt/ci/ciframeworks/</link>
+      <link>https://tbro28.github.io/tlt/devops/continint/ciframeworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/ci/ciframeworks/</guid>
+      <guid>https://tbro28.github.io/tlt/devops/continint/ciframeworks/</guid>
       <description> Continuous Integration Frameworks  Hugo  List the child pages of a page
  </description>
     </item>
@@ -357,7 +451,7 @@ Changing Culture &amp;amp; Being a force for Awesome.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/credits/</guid>
-      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 219 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @FMuro 2 commits   @jose-oc 2 commits   @Thiht 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @EnigmaCurry 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
+      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 225 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @jose-oc 4 commits   @FMuro 2 commits   @Thiht 2 commits   @EnigmaCurry 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
     </item>
     
     <item>
@@ -420,10 +514,10 @@ Changing Culture &amp;amp; Being a force for Awesome.
     
     <item>
       <title>Hugo</title>
-      <link>https://tbro28.github.io/tlt/ci/hugo/</link>
+      <link>https://tbro28.github.io/tlt/devops/continint/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tbro28.github.io/tlt/ci/hugo/</guid>
+      <guid>https://tbro28.github.io/tlt/devops/continint/hugo/</guid>
       <description> Hugo  </description>
     </item>
     
@@ -658,7 +752,7 @@ don’t optimize for the case where we are right
 focus on value, not cost
 enable an experimental approach to product dev
 make it economic to work in small batches
-UX isn&amp;rsquo;t about making it pretty! It&amp;rsquo;s about helping us thinking about delivering things that satisfy customers.
+UX isn&amp;rsquo;t about making it pretty! It&amp;rsquo;s about helping us to think about delivering things that satisfy customers.
 Slides.
 Continuous Delivery.
   </description>

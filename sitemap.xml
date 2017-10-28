@@ -18,17 +18,27 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/devops/devopstools1/</loc>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/ansible/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/contindel/</loc>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/buildtools/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/continint/</loc>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/containertools/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/contindel/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/continint/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -48,12 +58,32 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/docker/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/environments/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tbro28.github.io/tlt/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/infratools/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/jenkins/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/kubernetes/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -68,17 +98,17 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/leadership/becc/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/logo/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tbro28.github.io/tlt/management/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/leadership/becc/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -98,7 +128,22 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/packer/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/tlt/page-slide/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/programminglanguages/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/tlt/devops/devopstools/python/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
@@ -148,11 +193,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/ci/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/tlt/environments/cloud/</loc>
   </url>
   
@@ -161,7 +201,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/ci/ciframeworks/</loc>
+    <loc>https://tbro28.github.io/tlt/devops/continint/ciframeworks/</loc>
   </url>
   
   <url>
@@ -209,7 +249,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/tlt/ci/hugo/</loc>
+    <loc>https://tbro28.github.io/tlt/devops/continint/hugo/</loc>
   </url>
   
   <url>

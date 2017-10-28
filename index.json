@@ -21,21 +21,35 @@
 	"content": ""
 },
 {
-	"uri": "https://tbro28.github.io/tlt/devops/devopstools1/",
-	"title": "Ansible - Infrastructure Automation",
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/ansible/",
+	"title": "Ansible",
 	"tags": [],
 	"description": "",
 	"content": " Ansible "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/contindel/",
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/buildtools/",
+	"title": "Build Tools",
+	"tags": [],
+	"description": "",
+	"content": "  Jenkins  \n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/containertools/",
+	"title": "Container Tools",
+	"tags": [],
+	"description": "",
+	"content": "  Docker  \n Kubernetes  \n Packer  \n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/contindel/",
 	"title": "Continuous Delivery",
 	"tags": [],
 	"description": "",
 	"content": "A bunch of Shortcodes are available with this theme :\n "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/continint/",
+	"uri": "https://tbro28.github.io/tlt/devops/continint/",
 	"title": "Continuous Integration",
 	"tags": [],
 	"description": "",
@@ -46,7 +60,7 @@
 	"title": "DevOps",
 	"tags": [],
 	"description": "",
-	"content": "  DevOps Knowledge  \n DevOps Tools  \n "
+	"content": "  Continuous Integration  A bunch of Shortcodes are available with this theme : Continuous Integration Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  \n DevOps Knowledge  \n DevOps Tools  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopsknowledge/",
@@ -60,7 +74,14 @@
 	"title": "DevOps Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Ansible - Infrastructure Automation   Ansible  "
+	"content": "  Build Tools   Jenkins   Jenkins  \n  Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes  \n Packer  \n  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  \n  Python  \n  "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/docker/",
+	"title": "Docker",
+	"tags": [],
+	"description": "",
+	"content": " Docker "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/environments/",
@@ -74,14 +95,35 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": " \nWelcome to TL Test! A single location to organize ideas, tools, and frameworks related to test and infrastructure automation. Additionally covered are the methodologies and leadership capabilities needed to quickly deliver software that consistently meets or even exceeds customer expectations. Professional Site\n Grow - Test - Lead - Succeed.  "
+	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to free human potential.\nTo automate rudimentary tasks everywhere possible as a way to free neurons to be used for greater, more value added, activities involving creativity, imagination, and forward thinking as to where to go from here.\nThis site is comprised of ideas, tools, and frameworks related to testing and infrastructure automation. More important areas included are the methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/infratools/",
+	"title": "Infrastructure Automation",
+	"tags": [],
+	"description": "",
+	"content": "  Ansible   Ansible  "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/jenkins/",
+	"title": "Jenkins",
+	"tags": [],
+	"description": "",
+	"content": " Jenkins "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/kubernetes/",
+	"title": "Kubernetes",
+	"tags": [],
+	"description": "",
+	"content": " Kubernetes "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/leadership/",
 	"title": "Leadership",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  A bunch of Shortcodes are available with this theme :  Leadership Principles  Leadership https://www.youtube.com/watch?v=8ubRzzirRKs\u0026amp;index=2\u0026amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary. If my position, title, role, or formal authority was removed would people still gladly follow me? People largely don’t want to be managed; they want to follow a leader.\n "
+	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  \n Managers VS Leaders  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/leadership/leadershipknowledge/",
@@ -89,13 +131,6 @@
 	"tags": [],
 	"description": "",
 	"content": "A bunch of Shortcodes are available with this theme :\n "
-},
-{
-	"uri": "https://tbro28.github.io/tlt/leadership/becc/",
-	"title": "Leadership Principles",
-	"tags": [],
-	"description": "",
-	"content": " Leadership https://www.youtube.com/watch?v=8ubRzzirRKs\u0026amp;index=2\u0026amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf\nBECC\n• Believe\n• Encouraged\n• Challenged\n• Corrected\nThe last C is probably the most important.\nLeaders develop followers and other leaders. It’s not about having subordinates.\nCreating a tribe versus a positional structuring.\nThe business of following is voluntary.\nIf my position, title, role, or formal authority was removed would people still gladly follow me?\nPeople largely don’t want to be managed; they want to follow a leader.\n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/logo/",
@@ -110,6 +145,13 @@
 	"tags": [],
 	"description": "",
 	"content": "A bunch of Shortcodes are available with this theme :\n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/leadership/becc/",
+	"title": "Managers VS Leaders",
+	"tags": [],
+	"description": "",
+	"content": " Top 10 Differences Between Managers and Leaders https://www.youtube.com/watch?v=8ubRzzirRKs\u0026amp;index=2\u0026amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf\nBECC\n• Believe\n• Encouraged\n• Challenged\n• Corrected\nThe last C is probably the most important.\nLeaders develop followers and other leaders. It’s not about having subordinates.\nCreating a tribe versus a positional structuring.\nThe business of following is voluntary.\nIf my position, title, role, or formal authority was removed would people still gladly follow me?\nPeople largely don’t want to be managed; they want to follow a leader.\n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/methods/",
@@ -133,11 +175,32 @@
 	"content": "A bunch of Shortcodes are available with this theme :\n Joel on Software  The Attachments shortcode displays a list of files attached to a page.\n "
 },
 {
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/packer/",
+	"title": "Packer",
+	"tags": [],
+	"description": "",
+	"content": " Packer "
+},
+{
 	"uri": "https://tbro28.github.io/tlt/page-slide/",
 	"title": "Present a Slide",
 	"tags": [],
 	"description": "",
 	"content": " A basic md content page can be rendered as a reveal.js presentation full screen.\nYou can, also, embed presentation in a page as a small box, using the revealjs shortcode in your md file. Formating Use your common Markdown syntax you use in Hugo, don\u0026rsquo;t forget, you can put html tags too.\nSpecial syntax (in html comment) is available for adding attributes to Markdown elements. This is useful for fragments, amongst other things. Please read the  doc from hakimel\nOptions In the frontmatter of your page file, set type and revealOptions params\nYour content will be served as a fullscreen revealjs presentation and revealOptions will be used to ajust its behaviour.\n+++ title = \u0026quot;Test slide\u0026quot; type=\u0026quot;slide\u0026quot; theme = \u0026quot;league\u0026quot; [revealOptions] transition= 'concave' controls= true progress= true history= true center= true +++  read more about reveal options here\nSlide Delimiters When creating the content for your slideshow presentation within content markdown file you need to be able to distinguish between one slide and the next. This is achieved very simply using a convention within Markdown that indicates the start of each new slide.\nAs both horizontal and vertical slides are supported by reveal.js each has it\u0026rsquo;s own unique delimiter.\nTo denote the start of a horizontal slide simply add the following delimiter in your Markdown:\n---  To denote the start of a vertical slide simply add the following delimiter in your Markdown:\n___  By using a combination of horizontal and vertical slides you can customize the navigation within your slideshow presentation. Typically vertical slides are used to present information below a top-level horizontal slide.\nFor example, a very simple slideshow presentation can be created as follows\n+++ draft = false title = \u0026quot;test\u0026quot; date = \u0026quot;2017-04-24T18:36:24+02:00\u0026quot; type=\u0026quot;slide\u0026quot; theme = \u0026quot;league\u0026quot; [revealOptions] transition= 'concave' controls= true progress= true history= true center= true +++ # In the morning ___ ## Getting up - Turn off alarm - Get out of bed ___ ## Breakfast - Eat eggs - Drink coffee --- # In the evening ___ ## Dinner - Eat spaghetti - Drink wine ___ ## Going to sleep - Get in bed - Count sheep   click here to view this page rendered\n"
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/programminglanguages/",
+	"title": "Programming Languages",
+	"tags": [],
+	"description": "",
+	"content": "  Python  \n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/devops/devopstools/python/",
+	"title": "Python",
+	"tags": [],
+	"description": "",
+	"content": " Python "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/self/",
@@ -210,13 +273,6 @@
 	"content": " Velocity 2012: Jesse Robbins, \u0026ldquo;Changing Culture \u0026amp; Being a force for Awesome\u0026rdquo; Say that it is just a short term experiment.\nGet your boss onboard, so that they can be that first champion for you.\nChanging Culture \u0026amp; Being a force for Awesome.\n  "
 },
 {
-	"uri": "https://tbro28.github.io/tlt/ci/",
-	"title": "Cis",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://tbro28.github.io/tlt/environments/cloud/",
 	"title": "Cloud Environments",
 	"tags": [],
@@ -231,7 +287,7 @@
 	"content": "When building the website, you can set a theme by using --theme option. We suggest you to edit your configuration file and set the theme by default. Example with config.toml format. theme = \u0026quot;docdock\u0026quot;  Search index generation Add the follow line in the same config.toml file.\n[outputs] home = [ \u0026quot;HTML\u0026quot;, \u0026quot;RSS\u0026quot;, \u0026quot;JSON\u0026quot;]  LUNRJS search index file will be generated on content changes.\nYour website\u0026rsquo;s content Find out how to create and organize your content quickly and intuitively.\n"
 },
 {
-	"uri": "https://tbro28.github.io/tlt/ci/ciframeworks/",
+	"uri": "https://tbro28.github.io/tlt/devops/continint/ciframeworks/",
 	"title": "Continuous Integration Frameworks",
 	"tags": [],
 	"description": "Ideas, tools, and thoughts on CI frameworks.",
@@ -242,7 +298,7 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "contributors and packages used by hugo-theme-docdock",
-	"content": " github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 219 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @FMuro 2 commits   @jose-oc 2 commits   @Thiht 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @EnigmaCurry 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support reveal-js - The HTML Presentation Framework  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo    "
+	"content": " github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 225 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @jose-oc 4 commits   @FMuro 2 commits   @Thiht 2 commits   @EnigmaCurry 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support reveal-js - The HTML Presentation Framework  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo    "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/test/testframeworks1/",
@@ -308,7 +364,7 @@
 	"content": "This is a demo child page\n"
 },
 {
-	"uri": "https://tbro28.github.io/tlt/ci/hugo/",
+	"uri": "https://tbro28.github.io/tlt/devops/continint/hugo/",
 	"title": "Hugo",
 	"tags": [],
 	"description": "List the child pages of a page",
@@ -522,7 +578,7 @@
 	"title": "Why Scaling Agile Doesn&#39;t Work",
 	"tags": [],
 	"description": "Jez Humble&#39;s thoughts on the problems with scaled frameworks.",
-	"content": " Water-Scrum-Fall what should we do\ncreate feedback loops to validate assumptions\ndon’t optimize for the case where we are right\nfocus on value, not cost\nenable an experimental approach to product dev\nmake it economic to work in small batches\nUX isn\u0026rsquo;t about making it pretty! It\u0026rsquo;s about helping us thinking about delivering things that satisfy customers.\nSlides.\nContinuous Delivery.\n  "
+	"content": " Water-Scrum-Fall what should we do\ncreate feedback loops to validate assumptions\ndon’t optimize for the case where we are right\nfocus on value, not cost\nenable an experimental approach to product dev\nmake it economic to work in small batches\nUX isn\u0026rsquo;t about making it pretty! It\u0026rsquo;s about helping us to think about delivering things that satisfy customers.\nSlides.\nContinuous Delivery.\n  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/self/90seconds/",
