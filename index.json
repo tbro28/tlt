@@ -39,7 +39,7 @@
 	"title": "Container Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Docker  \n Kubernetes  \n Packer  \n "
+	"content": "  Docker   Docker  Kubernetes   Kubernetes  Packer  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/contindel/",
@@ -60,7 +60,7 @@
 	"title": "DevOps",
 	"tags": [],
 	"description": "",
-	"content": "  Continuous Integration  A bunch of Shortcodes are available with this theme : Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge   Changing Culture \u0026amp; Being a force for Awesome Velocity 2012: Jesse Robbins. Jez Humble | Continuous Delivery Jez Humble\u0026#39;s thoughts on CD. NoOps - DevOpsDays Portland, 2016: Kelsey Hightower The Attachments shortcode displays a list of files attached to a page. Why Scaling Agile Doesn\u0026#39;t Work Jez Humble\u0026#39;s thoughts on the problems with scaled frameworks.  DevOps Tools   Build Tools Jenkins Jenkins Container Tools Docker Kubernetes Packer Infrastructure Automation Ansible Ansible Programming Languages Python  "
+	"content": "  Continuous Integration  A bunch of Shortcodes are available with this theme : Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge  \n DevOps Tools  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopsknowledge/",
@@ -74,7 +74,7 @@
 	"title": "DevOps Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Build Tools   Jenkins   Jenkins  \n  Container Tools  \n  Docker  \n Kubernetes  \n Packer  \n  Infrastructure Automation  \n  Ansible   Ansible   Programming Languages  \n  Python  \n  "
+	"content": "  Build Tools   Jenkins   Jenkins  \n  Container Tools  \n  Docker   Docker  Kubernetes   Kubernetes  Packer  \n  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  \n  Python  \n  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/docker/",
@@ -95,7 +95,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to free human potential.\nMore specifically, to automate rudimentary tasks everywhere possible as a way to free human neurons to be used for greater, more value added, activities involving creativity, imagination, and forward thinking as to where to go from here.\nThis site is primarily comprised of ideas, tools, and frameworks related to testing, devops, and infrastructure automation. Even more important are the sections covering methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
+	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to free human potential.\nMore specifically, to automate rudimentary tasks everywhere possible as a way to free human neurons to be used for greater, more value added activities involving creativity, imagination, and forward thinking as to where to go from here.\nThis site is primarily comprised of ideas, tools, and frameworks related to testing, devops, and infrastructure automation. Even more important areas encompass methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/infratools/",
@@ -123,7 +123,7 @@
 	"title": "Leadership",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  \n Managers VS Leaders  Top 10 Differences Between Managers and Leaders https://www.youtube.com/watch?v=8ubRzzirRKs\u0026amp;index=2\u0026amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary. If my position, title, role, or formal authority was removed would people still gladly follow me? People largely don’t want to be managed; they want to follow a leader.\n "
+	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  \n Managers VS Leaders  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/leadership/leadershipknowledge/",
@@ -193,7 +193,7 @@
 	"title": "Programming Languages",
 	"tags": [],
 	"description": "",
-	"content": "  Python  \n "
+	"content": "  Python   Python  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/python/",
