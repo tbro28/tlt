@@ -60,7 +60,7 @@
 	"title": "DevOps",
 	"tags": [],
 	"description": "",
-	"content": "  Continuous Integration  A bunch of Shortcodes are available with this theme : Continuous Integration Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  \n DevOps Knowledge  \n DevOps Tools  \n "
+	"content": "  Continuous Integration  \n Continuous Delivery  \n DevOps Knowledge  \n DevOps Tools  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopsknowledge/",
@@ -74,7 +74,7 @@
 	"title": "DevOps Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Build Tools   Jenkins   Jenkins  \n  Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes  \n Packer  \n  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  \n  Python  \n  "
+	"content": "  Build Tools   Jenkins   Jenkins   Jenkins   Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes   Kubernetes  Packer  \n  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  \n  Python  \n  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/docker/",
@@ -95,7 +95,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to free human potential.\nTo automate rudimentary tasks everywhere possible as a way to free neurons to be used for greater, more value added, activities involving creativity, imagination, and forward thinking as to where to go from here.\nThis site is comprised of ideas, tools, and frameworks related to testing and infrastructure automation. More important areas included are the methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
+	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to free human potential.\nMore specifically, to automate rudimentary tasks everywhere possible as a way to free human neurons to be used for greater, more value added, activities involving creativity, imagination, and forward thinking as to where to go from here.\nThis site is primarily comprised of ideas, tools, and frameworks related to testing, devops, and infrastructure automation. Even more important are the sections covering methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/infratools/",
@@ -123,7 +123,7 @@
 	"title": "Leadership",
 	"tags": [],
 	"description": "",
-	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  \n Managers VS Leaders  \n "
+	"content": "A bunch of Shortcodes are available with this theme :\n Leadership Knowledge  \n Managers VS Leaders  Top 10 Differences Between Managers and Leaders https://www.youtube.com/watch?v=8ubRzzirRKs\u0026amp;index=2\u0026amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary. If my position, title, role, or formal authority was removed would people still gladly follow me? People largely don’t want to be managed; they want to follow a leader.\n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/leadership/leadershipknowledge/",

@@ -100,7 +100,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
-      <description>  Continuous Integration  A bunch of Shortcodes are available with this theme : Continuous Integration Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  
+      <description>  Continuous Integration  
+ Continuous Delivery  
  DevOps Knowledge  
  DevOps Tools  
  </description>
@@ -125,9 +126,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/</guid>
-      <description>  Build Tools   Jenkins   Jenkins  
-  Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes  
- Packer  
+      <description>  Build Tools   Jenkins   Jenkins   Jenkins   Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes   Kubernetes  Packer  
   Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  
   Python  
   </description>
@@ -189,8 +188,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <guid>https://tbro28.github.io/tlt/leadership/</guid>
       <description>A bunch of Shortcodes are available with this theme :
  Leadership Knowledge  
- Managers VS Leaders  
- </description>
+ Managers VS Leaders  Top 10 Differences Between Managers and Leaders https://www.youtube.com/watch?v=8ubRzzirRKs&amp;amp;index=2&amp;amp;list=PL5xmjz_8088FgfpoiK_8R-SrUcIkD3THf BECC • Believe • Encouraged • Challenged • Corrected The last C is probably the most important. Leaders develop followers and other leaders. It’s not about having subordinates. Creating a tribe versus a positional structuring. The business of following is voluntary. If my position, title, role, or formal authority was removed would people still gladly follow me?</description>
     </item>
     
     <item>
