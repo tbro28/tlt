@@ -39,7 +39,7 @@
 	"title": "Container Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Docker   Docker  Kubernetes   Kubernetes  Packer  \n "
+	"content": "  Docker  \n Kubernetes  \n Packer  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/contindel/",
@@ -60,7 +60,7 @@
 	"title": "DevOps",
 	"tags": [],
 	"description": "",
-	"content": "  Continuous Integration  A bunch of Shortcodes are available with this theme : Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge  \n DevOps Tools  \n "
+	"content": "  Continuous Integration  \n Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge  \n DevOps Tools  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopsknowledge/",
@@ -74,7 +74,7 @@
 	"title": "DevOps Tools",
 	"tags": [],
 	"description": "",
-	"content": "  Build Tools   Jenkins   Jenkins  \n  Container Tools  \n  Docker   Docker  Kubernetes   Kubernetes  Packer  \n  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  \n  Python  \n  "
+	"content": "  Build Tools   Jenkins   Jenkins   Jenkins   Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes   Kubernetes  Packer   Packer   Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages   Python   Python  \n  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/docker/",
@@ -95,7 +95,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to free human potential.\nMore specifically, to automate rudimentary tasks everywhere possible as a way to free human neurons to be used for greater, more value added activities involving creativity, imagination, and forward thinking as to where to go from here.\nThis site is primarily comprised of ideas, tools, and frameworks related to testing, devops, and infrastructure automation. Even more important areas encompass methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
+	"content": " \nWelcome to Tech Leadership in Test! Purpose: To utilize technology as a means to release human potential.\nMore specifically, to automate rudimentary tasks everywhere possible as a way to free people to be used for greater, more value added activities involving creativity, imagination, and forward thinking.\nThis site is primarily comprised of ideas, tools, and frameworks related to testing, devops, and infrastructure automation. Even more important areas encompass methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.\nProfessional Site\n Grow - Test - Lead - Succeed.  "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/infratools/",
@@ -193,7 +193,7 @@
 	"title": "Programming Languages",
 	"tags": [],
 	"description": "",
-	"content": "  Python   Python  "
+	"content": "  Python  \n "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/devops/devopstools/python/",
@@ -291,7 +291,7 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "contributors and packages used by hugo-theme-docdock",
-	"content": " github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 225 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @jose-oc 4 commits   @FMuro 2 commits   @Thiht 2 commits   @EnigmaCurry 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support reveal-js - The HTML Presentation Framework  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo    "
+	"content": " github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 225 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @jose-oc 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @FMuro 2 commits   @Thiht 2 commits   @EnigmaCurry 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support reveal-js - The HTML Presentation Framework  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo    "
 },
 {
 	"uri": "https://tbro28.github.io/tlt/test/testframeworks1/",
@@ -371,6 +371,13 @@
 	"content": " Hugo  "
 },
 {
+	"uri": "https://tbro28.github.io/tlt/methods/agile/incremental/",
+	"title": "Incremental VS Iterative",
+	"tags": [],
+	"description": "The Attachments shortcode displays a list of files attached to a page.",
+	"content": "Entertaining post filled with great tie ins to music like and how it applies to Agile development, like:\n “You can’t always get what you want. But if you try sometime, you just might find, you get what you need.”\n Don’t Know What I Want, But I Know How to Get It.\n"
+},
+{
 	"uri": "https://tbro28.github.io/tlt/installation/",
 	"title": "Installation",
 	"tags": [],
@@ -439,6 +446,13 @@
 	"tags": [],
 	"description": "The Attachments shortcode displays a list of files attached to a page.",
 	"content": "  Vagrant and VirtualBox  Using both tools to deploy and test locally.\n "
+},
+{
+	"uri": "https://tbro28.github.io/tlt/methods/agile/mvp/",
+	"title": "MVP VS Earliest Testable/Usable/Lovable",
+	"tags": [],
+	"description": "Alternative words to describe MVP.",
+	"content": "Earliest Feedbackable Product\nEarliest Testable Product\nEarliest Usable Product\nEarliest Lovable Product\nMaking sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable.\n"
 },
 {
 	"uri": "https://tbro28.github.io/tlt/methods/",

@@ -67,7 +67,9 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/containertools/</guid>
-      <description>  Docker   Docker  Kubernetes   Kubernetes  Packer  
+      <description>  Docker  
+ Kubernetes  
+ Packer  
  </description>
     </item>
     
@@ -98,7 +100,8 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/</guid>
-      <description>  Continuous Integration  A bunch of Shortcodes are available with this theme : Frameworks Ideas, tools, and thoughts on CI frameworks.  Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge  
+      <description>  Continuous Integration  
+ Continuous Delivery  A bunch of Shortcodes are available with this theme :  DevOps Knowledge  
  DevOps Tools  
  </description>
     </item>
@@ -122,11 +125,7 @@ Homepage consideration Do not set [menu.main] in the frontmatter of your _index.
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/</guid>
-      <description>  Build Tools   Jenkins   Jenkins  
-  Container Tools  
-  Docker   Docker  Kubernetes   Kubernetes  Packer  
-  Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages  
-  Python  
+      <description>  Build Tools   Jenkins   Jenkins   Jenkins   Container Tools   Docker Kubernetes Packer   Docker   Docker  Kubernetes   Kubernetes  Packer   Packer   Infrastructure Automation   Ansible Ansible   Ansible   Ansible   Programming Languages   Python   Python  
   </description>
     </item>
     
@@ -299,7 +298,8 @@ Special syntax (in html comment) is available for adding attributes to Markdown 
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://tbro28.github.io/tlt/devops/devopstools/programminglanguages/</guid>
-      <description>  Python   Python  </description>
+      <description>  Python  
+ </description>
     </item>
     
     <item>
@@ -437,7 +437,7 @@ Changing Culture &amp;amp; Being a force for Awesome.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/tlt/credits/</guid>
-      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 225 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @jose-oc 4 commits   @FMuro 2 commits   @Thiht 2 commits   @EnigmaCurry 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
+      <description>github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vjeantet 225 commits   @matcornic 49 commits   @W-Floyd 24 commits   @gwleclerc 21 commits   @lierdakil 16 commits   @Pilskalns 12 commits   @SiamKreative 6 commits   @jose-oc 6 commits   @Xipas 5 commits   @altinnadmin 4 commits   @FMuro 2 commits   @Thiht 2 commits   @EnigmaCurry 2 commits   @adamlamar 1 commits   @byzheng 1 commits   @zivbk1 1 commits   @vielmetti 1 commits   @erikjasiak 1 commits   @giuliov 1 commits   @farmergreg 1 commits   @tarpdalton 1 commits   @JohnBlood 1 commits   @kamilchm 1 commits   @ripienaar 1 commits   @shazic 1 commits   @viertaxa 1 commits   @uweschaefer 1 commits   @justin-yan 1 commits   @karlmacklin 1 commits   @petzi53 1 commits   @remi31000 1 commits   @xxxtonixxx 1 commits   Other contributors  @bep supports and advices   Packages and libraries  Bootstrap - front-end framework mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
     </item>
     
     <item>
@@ -515,6 +515,17 @@ Changing Culture &amp;amp; Being a force for Awesome.
       
       <guid>https://tbro28.github.io/tlt/devops/continint/hugo/</guid>
       <description> Hugo  </description>
+    </item>
+    
+    <item>
+      <title>Incremental VS Iterative</title>
+      <link>https://tbro28.github.io/tlt/methods/agile/incremental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/methods/agile/incremental/</guid>
+      <description>Entertaining post filled with great tie ins to music like and how it applies to Agile development, like:
+ “You can’t always get what you want. But if you try sometime, you just might find, you get what you need.”
+ Don’t Know What I Want, But I Know How to Get It.</description>
     </item>
     
     <item>
@@ -616,6 +627,19 @@ Usage    Parameter Default Description     style &amp;ldquo;li&amp;rdquo; Choose
       <guid>https://tbro28.github.io/tlt/environments/local/</guid>
       <description>  Vagrant and VirtualBox  Using both tools to deploy and test locally.
  </description>
+    </item>
+    
+    <item>
+      <title>MVP VS Earliest Testable/Usable/Lovable</title>
+      <link>https://tbro28.github.io/tlt/methods/agile/mvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/tlt/methods/agile/mvp/</guid>
+      <description>Earliest Feedbackable Product
+Earliest Testable Product
+Earliest Usable Product
+Earliest Lovable Product
+Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable.</description>
     </item>
     
     <item>
