@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Environments"
+title = "Leadership Knowledge"
 description = ""
 date = "2017-04-24T18:36:24+02:00"
 
@@ -10,9 +10,9 @@ lastmodifierdisplayname = "Valere JEANTET"
 lastmodifieremail = "valere.jeantet@gmail.com"
 
 [menu.main]
-parent = ""
-identifier = "environments"
-weight = 5
+parent = "leadership"
+identifier = "leadershipknowledge"
+weight = 30
 
 +++
 

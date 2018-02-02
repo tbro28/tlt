@@ -12,10 +12,8 @@ lastmodifieremail = "valere.jeantet@gmail.com"
 [menu.main]
 parent = ""
 identifier = "devops"
-weight = 30
+weight = 4
 
 +++
-
-A bunch of Shortcodes are available with this theme :
 
 {{%children style="h2" description="true"%}}

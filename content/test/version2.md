@@ -5,7 +5,7 @@ description = "This is a demo child page"
 
 [menu.main]
 parent = "version"
-identifier = "version2"
+identifier = "github"
 +++
 
 This is a demo child page

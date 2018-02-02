@@ -10,9 +10,9 @@ lastmodifierdisplayname = "Valere JEANTET"
 lastmodifieremail = "valere.jeantet@gmail.com"
 
 [menu.main]
-parent = ""
+parent = "devops"
 identifier = "contindel"
-weight = 30
+weight = 15
 
 +++
 

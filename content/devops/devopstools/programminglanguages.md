@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Environments"
+title = "Programming Languages"
 description = ""
 date = "2017-04-24T18:36:24+02:00"
 
@@ -10,12 +10,10 @@ lastmodifierdisplayname = "Valere JEANTET"
 lastmodifieremail = "valere.jeantet@gmail.com"
 
 [menu.main]
-parent = ""
-identifier = "environments"
-weight = 5
+parent = "devopstools"
+identifier = "programminglanguages"
+weight = 30
 
 +++
 
-A bunch of Shortcodes are available with this theme :
-
-{{%children style="h2" description="true"%}}
+{{% children nohidden="true" style="h3" depth="3" description="true" sort="Name" %}}

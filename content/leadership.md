@@ -12,7 +12,7 @@ lastmodifieremail = "valere.jeantet@gmail.com"
 [menu.main]
 parent = ""
 identifier = "leadership"
-weight = 30
+weight = 25
 
 +++
 

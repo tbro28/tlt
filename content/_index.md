@@ -16,10 +16,16 @@ lastmodifieremail = "valere.jeantet@gmail.com"
 <a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fa fa-bars"></i></a>
 </span>
 
-![](/tlt.png)
+![](tlt.png)
 
-{{%children style="h2" description="false"%}}
+{{% children nohidden="true" style="h3" depth="3" description="true" sort="Name" %}}
 
-{{% panel theme="" header="<b>Welcome to TL Test!</b>" footer="<b>Grow - Test - Lead - Succeed.</b>" %}}
-A single location to organize ideas, tools, and frameworks related to test and infrastructure automation. Additionally covered are the methodologies and leadership capabilities needed to quickly deliver software that consistently meets or even exceeds customer expectations. <br><br>[Professional Site](https://tbro28.github.io/prof/")
+{{% panel theme="" header="<b>Welcome to Tech Leadership in Test!</b>" footer="<b>Grow - Test - Lead - Succeed.</b>" %}}
+Purpose: To utilize technology as a means to release human potential.
+
+More specifically, to automate rudimentary tasks everywhere possible as a way to free people to be used for greater, more value added activities involving creativity, imagination, and forward thinking.
+
+This site is primarily comprised of ideas, tools, and frameworks related to testing, devops, and infrastructure automation. Even more important areas encompass methodologies and leadership capabilities needed to quickly deliver systems of actual value to end customers.
+
+[Professional Site](https://tbro28.github.io/prof/)
 {{% /panel %}}

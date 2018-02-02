@@ -16,6 +16,4 @@ weight = 30
 
 +++
 
-A bunch of Shortcodes are available with this theme :
-
-{{%children style="h2" description="true"%}}
+{{% children nohidden="true" style="h3" depth="3" description="true" sort="Name" %}}

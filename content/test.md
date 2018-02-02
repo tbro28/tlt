@@ -12,10 +12,8 @@ lastmodifieremail = "valere.jeantet@gmail.com"
 [menu.main]
 parent = ""
 identifier = "test"
-weight = 30
+weight = 1
 
 +++
-
-A bunch of Shortcodes are available with this theme :
-
-{{%children style="h2" description="true"%}}
+## Where is this page?  
+{{% children nohidden="true" style="h3" depth="5" description="true" sort="Name" %}}

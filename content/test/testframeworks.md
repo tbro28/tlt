@@ -1,13 +1,13 @@
 +++
 draft = false
-title = "UI Automation"
-description = "Various UI automation tools."
+title = "Frameworks"
+description = "List the child pages of a page"
 
 [menu.main]
 parent = "test"
-identifier = "ui"
+identifier = "testframeworks"
 +++
 
-## UI Automation Tools  
+## Frameworks
 
 {{% children nohidden="true" style="h3" depth="3" description="true" sort="Name" %}}

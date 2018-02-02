@@ -11,5 +11,4 @@ lastmodifierdisplayname = "Valere JEANTET"
 lastmodifieremail = "valere.jeantet@gmail.com"
 
 +++
-![](/tlt_header.png)
-Technology Leadership in Test
+<h3 style="color:MediumSeaGreen;">TL Test</h3>
